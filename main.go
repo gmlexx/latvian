@@ -49,6 +49,13 @@ func newQuestion(num int) question {
 	}
 }
 
+func sentenceContext(object string) string {
+	if strings.HasPrefix(object, "papildu piemērs ") {
+		return ""
+	}
+	return object
+}
+
 func main() {
 	rand.Seed(time.Now().UnixNano())
 	reader := bufio.NewReader(os.Stdin)
@@ -85,7 +92,12 @@ func main() {
 
 		subject := q.person.Label(q.fem)
 		adverb := data.TimeAdverb(q.tense)
-		fmt.Printf("%s %s ___ (%s) %s.\n", subject, adverb, cyan(q.verb.Infinitive), q.verb.Object)
+		context := sentenceContext(q.verb.Object)
+		if context == "" {
+			fmt.Printf("%s %s ___ (%s).\n", subject, adverb, cyan(q.verb.Infinitive))
+		} else {
+			fmt.Printf("%s %s ___ (%s) %s.\n", subject, adverb, cyan(q.verb.Infinitive), context)
+		}
 		fmt.Print("> ")
 
 		input, err := reader.ReadString('\n')
@@ -147,7 +159,11 @@ func main() {
 		}
 		fmt.Printf("Skaidrojums: darbības vārds %s (%s, %s) laika formā %s prasa %s.\n",
 			cyan(q.verb.Infinitive), q.verb.Translation, yellow(q.verb.Class), yellow(q.tense.String()), yellow(q.person.Description()))
-		fmt.Printf("Pilns teikums: %s %s %s %s.\n", subject, adverb, green(want), q.verb.Object)
+		if context == "" {
+			fmt.Printf("Pilns teikums: %s %s %s.\n", subject, adverb, green(want))
+		} else {
+			fmt.Printf("Pilns teikums: %s %s %s %s.\n", subject, adverb, green(want), context)
+		}
 		fmt.Println(yellow("Šis jautājums tiks atkārtots kārtas beigās."))
 		fmt.Println()
 

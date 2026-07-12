@@ -162,7 +162,7 @@
   {
     "infinitive": "redzēt",
     "translation": "to see",
-    "class": "2. konjugācija (-ēt)",
+    "class": "3. konjugācija",
     "object": "draugu",
     "forms": [
       [
@@ -194,7 +194,7 @@
   {
     "infinitive": "runāt",
     "translation": "to speak",
-    "class": "2. konjugācija (-āt)",
+    "class": "2. konjugācija",
     "object": "latviski",
     "forms": [
       [
@@ -258,7 +258,7 @@
   {
     "infinitive": "mācīties",
     "translation": "to study/learn",
-    "class": "2. konjugācija (-īties), atgriezeniskā",
+    "class": "3. konjugācija, atgriezeniskā",
     "object": "latviešu valodu",
     "forms": [
       [
@@ -290,7 +290,7 @@
   {
     "infinitive": "gribēt",
     "translation": "to want",
-    "class": "2. konjugācija (-ēt)",
+    "class": "3. konjugācija",
     "object": "kafiju",
     "forms": [
       [
@@ -322,7 +322,7 @@
   {
     "infinitive": "varēt",
     "translation": "to be able to",
-    "class": "2. konjugācija (-ēt)",
+    "class": "3. konjugācija",
     "object": "palīdzēt",
     "forms": [
       [
@@ -418,7 +418,7 @@
   {
     "infinitive": "lasīt",
     "translation": "to read",
-    "class": "2. konjugācija (-īt)",
+    "class": "3. konjugācija",
     "object": "grāmatu",
     "forms": [
       [
@@ -450,7 +450,7 @@
   {
     "infinitive": "rakstīt",
     "translation": "to write",
-    "class": "2. konjugācija (-īt)",
+    "class": "3. konjugācija",
     "object": "vēstuli",
     "forms": [
       [
@@ -482,7 +482,7 @@
   {
     "infinitive": "skatīties",
     "translation": "to watch/look",
-    "class": "2. konjugācija (-īties), atgriezeniskā",
+    "class": "3. konjugācija, atgriezeniskā",
     "object": "televīzoru",
     "forms": [
       [
@@ -514,7 +514,7 @@
   {
     "infinitive": "klausīties",
     "translation": "to listen",
-    "class": "2. konjugācija (-īties), atgriezeniskā",
+    "class": "3. konjugācija, atgriezeniskā",
     "object": "mūziku",
     "forms": [
       [
@@ -610,7 +610,7 @@
   {
     "infinitive": "ēst",
     "translation": "to eat",
-    "class": "1. konjugācija, neregulārs",
+    "class": "1. konjugācija",
     "object": "brokastis",
     "forms": [
       [
@@ -674,7 +674,7 @@
   {
     "infinitive": "gulēt",
     "translation": "to sleep/lie",
-    "class": "2. konjugācija (-ēt)",
+    "class": "3. konjugācija",
     "object": "līdz pusdienlaikam",
     "forms": [
       [
@@ -802,7 +802,7 @@
   {
     "infinitive": "dziedāt",
     "translation": "to sing",
-    "class": "2. konjugācija (-āt)",
+    "class": "3. konjugācija",
     "object": "skaisti",
     "forms": [
       [
@@ -834,7 +834,7 @@
   {
     "infinitive": "dejot",
     "translation": "to dance",
-    "class": "3. konjugācija (-ot)",
+    "class": "2. konjugācija",
     "object": "valsi",
     "forms": [
       [
@@ -898,7 +898,7 @@
   {
     "infinitive": "raudāt",
     "translation": "to cry",
-    "class": "2. konjugācija (-āt)",
+    "class": "3. konjugācija",
     "object": "no prieka",
     "forms": [
       [
@@ -1090,7 +1090,7 @@
   {
     "infinitive": "gaidīt",
     "translation": "to wait",
-    "class": "2. konjugācija (-īt)",
+    "class": "3. konjugācija",
     "object": "autobusu",
     "forms": [
       [
@@ -1186,7 +1186,7 @@
   {
     "infinitive": "palīdzēt",
     "translation": "to help",
-    "class": "2. konjugācija (-ēt)",
+    "class": "3. konjugācija",
     "object": "draugam",
     "forms": [
       [
@@ -1231,7 +1231,7 @@
       ],
       [
         "sapratu",
-        "sapratu",
+        "saprati",
         "saprata",
         "sapratām",
         "sapratāt",
@@ -1250,7 +1250,7 @@
   {
     "infinitive": "atbildēt",
     "translation": "to answer",
-    "class": "2. konjugācija (-ēt)",
+    "class": "3. konjugācija",
     "object": "uz jautājumu",
     "forms": [
       [
@@ -1314,7 +1314,7 @@
   {
     "infinitive": "atcerēties",
     "translation": "to remember",
-    "class": "2. konjugācija (-ēties), atgriezeniskā",
+    "class": "3. konjugācija, atgriezeniskā",
     "object": "viņa vārdu",
     "forms": [
       [
@@ -1410,7 +1410,7 @@
   {
     "infinitive": "gaidīt",
     "translation": "to wait",
-    "class": "2. konjugācija (-īt)",
+    "class": "3. konjugācija",
     "object": "vēstuli",
     "forms": [
       [
@@ -1506,7 +1506,7 @@
   {
     "infinitive": "dzīvot",
     "translation": "to live",
-    "class": "3. konjugācija (-ot)",
+    "class": "2. konjugācija",
     "object": "Rīgā",
     "forms": [
       [
@@ -1570,7 +1570,7 @@
   {
     "infinitive": "mīlēt",
     "translation": "to love",
-    "class": "2. konjugācija (-ēt)",
+    "class": "3. konjugācija",
     "object": "savu ģimeni",
     "forms": [
       [
@@ -1634,7 +1634,7 @@
   {
     "infinitive": "sagatavot",
     "translation": "to prepare",
-    "class": "3. konjugācija (-ot)",
+    "class": "2. konjugācija",
     "object": "vakariņas",
     "forms": [
       [
@@ -1922,7 +1922,7 @@
   {
     "infinitive": "uzvarēt",
     "translation": "to win",
-    "class": "2. konjugācija (-ēt)",
+    "class": "3. konjugācija",
     "object": "sacensībās",
     "forms": [
       [
@@ -2306,7 +2306,7 @@
   {
     "infinitive": "peldēt",
     "translation": "to swim",
-    "class": "2. konjugācija (-ēt)",
+    "class": "3. konjugācija",
     "object": "baseinā",
     "forms": [
       [
@@ -2370,7 +2370,7 @@
   {
     "infinitive": "sēdēt",
     "translation": "to sit",
-    "class": "2. konjugācija (-ēt)",
+    "class": "3. konjugācija",
     "object": "krēslā",
     "forms": [
       [
@@ -2402,7 +2402,7 @@
   {
     "infinitive": "stāvēt",
     "translation": "to stand",
-    "class": "2. konjugācija (-ēt)",
+    "class": "3. konjugācija",
     "object": "rindā",
     "forms": [
       [
@@ -2434,7 +2434,7 @@
   {
     "infinitive": "dzīvot",
     "translation": "to live",
-    "class": "3. konjugācija (-ot)",
+    "class": "2. konjugācija",
     "object": "Latvijā",
     "forms": [
       [
@@ -2530,7 +2530,7 @@
   {
     "infinitive": "mainīt",
     "translation": "to change",
-    "class": "2. konjugācija (-īt)",
+    "class": "3. konjugācija",
     "object": "plānu",
     "forms": [
       [
@@ -2562,7 +2562,7 @@
   {
     "infinitive": "lietot",
     "translation": "to use",
-    "class": "3. konjugācija (-ot)",
+    "class": "2. konjugācija",
     "object": "vārdnīcu",
     "forms": [
       [
@@ -2594,7 +2594,7 @@
   {
     "infinitive": "izmantot",
     "translation": "to use",
-    "class": "3. konjugācija (-ot)",
+    "class": "2. konjugācija",
     "object": "laiku",
     "forms": [
       [
@@ -2626,7 +2626,7 @@
   {
     "infinitive": "veidot",
     "translation": "to create",
-    "class": "3. konjugācija (-ot)",
+    "class": "2. konjugācija",
     "object": "plānu",
     "forms": [
       [
@@ -2754,7 +2754,7 @@
   {
     "infinitive": "tīrīt",
     "translation": "to clean",
-    "class": "2. konjugācija (-īt)",
+    "class": "3. konjugācija",
     "object": "istabu",
     "forms": [
       [
@@ -2786,7 +2786,7 @@
   {
     "infinitive": "gatavot",
     "translation": "to cook",
-    "class": "3. konjugācija (-ot)",
+    "class": "2. konjugācija",
     "object": "zupu",
     "forms": [
       [
@@ -2850,7 +2850,7 @@
   {
     "infinitive": "vārīt",
     "translation": "to boil/cook",
-    "class": "2. konjugācija (-īt)",
+    "class": "3. konjugācija",
     "object": "kartupeļus",
     "forms": [
       [
@@ -2914,7 +2914,7 @@
   {
     "infinitive": "pievienot",
     "translation": "to add",
-    "class": "3. konjugācija (-ot)",
+    "class": "2. konjugācija",
     "object": "sāli",
     "forms": [
       [
@@ -2946,7 +2946,7 @@
   {
     "infinitive": "izvēlēties",
     "translation": "to choose",
-    "class": "2. konjugācija (-ēties), atgriezeniskā",
+    "class": "3. konjugācija, atgriezeniskā",
     "object": "dāvanu",
     "forms": [
       [
@@ -2978,7 +2978,7 @@
   {
     "infinitive": "vēlēties",
     "translation": "to wish",
-    "class": "2. konjugācija (-ēties), atgriezeniskā",
+    "class": "3. konjugācija, atgriezeniskā",
     "object": "veiksmi",
     "forms": [
       [
@@ -3010,7 +3010,7 @@
   {
     "infinitive": "baidīties",
     "translation": "to be afraid",
-    "class": "2. konjugācija (-īties), atgriezeniskā",
+    "class": "3. konjugācija, atgriezeniskā",
     "object": "no tumsas",
     "forms": [
       [
@@ -3042,7 +3042,7 @@
   {
     "infinitive": "cerēt",
     "translation": "to hope",
-    "class": "2. konjugācija (-ēt)",
+    "class": "3. konjugācija",
     "object": "uz labāko",
     "forms": [
       [
@@ -3074,7 +3074,7 @@
   {
     "infinitive": "ticēt",
     "translation": "to believe",
-    "class": "2. konjugācija (-ēt)",
+    "class": "3. konjugācija",
     "object": "draugam",
     "forms": [
       [
@@ -3106,7 +3106,7 @@
   {
     "infinitive": "šaubīties",
     "translation": "to doubt",
-    "class": "2. konjugācija (-īties), atgriezeniskā",
+    "class": "3. konjugācija, atgriezeniskā",
     "object": "par atbildi",
     "forms": [
       [
@@ -3138,7 +3138,7 @@
   {
     "infinitive": "cerēt",
     "translation": "to hope",
-    "class": "2. konjugācija (-ēt)",
+    "class": "3. konjugācija",
     "object": "uz palīdzību",
     "forms": [
       [
@@ -3170,7 +3170,7 @@
   {
     "infinitive": "smaidīt",
     "translation": "to smile",
-    "class": "2. konjugācija (-īt)",
+    "class": "3. konjugācija",
     "object": "kamerai",
     "forms": [
       [
@@ -3234,7 +3234,7 @@
   {
     "infinitive": "iepazīties",
     "translation": "to get acquainted",
-    "class": "2. konjugācija (-īties), atgriezeniskā",
+    "class": "3. konjugācija, atgriezeniskā",
     "object": "ar kaimiņu",
     "forms": [
       [
@@ -3266,7 +3266,7 @@
   {
     "infinitive": "precēties",
     "translation": "to marry",
-    "class": "2. konjugācija (-ēties), atgriezeniskā",
+    "class": "3. konjugācija, atgriezeniskā",
     "object": "vasarā",
     "forms": [
       [
@@ -3346,7 +3346,7 @@
         "piedzimi",
         "piedzima",
         "piedzimām",
-        "piedz imāt",
+        "piedzimāt",
         "piedzima"
       ],
       [
@@ -3458,7 +3458,7 @@
   {
     "infinitive": "sūtīt",
     "translation": "to send",
-    "class": "2. konjugācija (-īt)",
+    "class": "3. konjugācija",
     "object": "ziņu",
     "forms": [
       [
@@ -3522,7 +3522,7 @@
   {
     "infinitive": "zvanīt",
     "translation": "to call",
-    "class": "2. konjugācija (-īt)",
+    "class": "3. konjugācija",
     "object": "mammai",
     "forms": [
       [
@@ -3682,7 +3682,7 @@
   {
     "infinitive": "pierādīt",
     "translation": "to prove",
-    "class": "2. konjugācija (-īt)",
+    "class": "3. konjugācija",
     "object": "patiesību",
     "forms": [
       [
@@ -3714,7 +3714,7 @@
   {
     "infinitive": "pārbaudīt",
     "translation": "to check",
-    "class": "2. konjugācija (-īt)",
+    "class": "3. konjugācija",
     "object": "atbildi",
     "forms": [
       [
@@ -3746,7 +3746,7 @@
   {
     "infinitive": "atkārtot",
     "translation": "to repeat",
-    "class": "3. konjugācija (-ot)",
+    "class": "2. konjugācija",
     "object": "jautājumu",
     "forms": [
       [
@@ -3778,7 +3778,7 @@
   {
     "infinitive": "izskaidrot",
     "translation": "to explain",
-    "class": "3. konjugācija (-ot)",
+    "class": "2. konjugācija",
     "object": "noteikumus",
     "forms": [
       [
@@ -3810,7 +3810,7 @@
   {
     "infinitive": "mācīt",
     "translation": "to teach",
-    "class": "2. konjugācija (-īt)",
+    "class": "3. konjugācija",
     "object": "bērnus",
     "forms": [
       [
@@ -3842,7 +3842,7 @@
   {
     "infinitive": "trenēties",
     "translation": "to train",
-    "class": "2. konjugācija (-ēties), atgriezeniskā",
+    "class": "3. konjugācija, atgriezeniskā",
     "object": "katru dienu",
     "forms": [
       [
@@ -3938,7 +3938,7 @@
   {
     "infinitive": "sagatavoties",
     "translation": "to prepare oneself",
-    "class": "3. konjugācija (-oties), atgriezeniskā",
+    "class": "2. konjugācija, atgriezeniskā",
     "object": "eksāmenam",
     "forms": [
       [
@@ -4034,7 +4034,7 @@
   {
     "infinitive": "sagaidīt",
     "translation": "to await",
-    "class": "2. konjugācija",
+    "class": "3. konjugācija",
     "object": "viesus",
     "forms": [
       [
@@ -4066,7 +4066,7 @@
   {
     "infinitive": "izbaudīt",
     "translation": "to enjoy",
-    "class": "2. konjugācija",
+    "class": "3. konjugācija",
     "object": "brīvdienas",
     "forms": [
       [
@@ -4098,7 +4098,7 @@
   {
     "infinitive": "aprakstīt",
     "translation": "to describe",
-    "class": "2. konjugācija",
+    "class": "3. konjugācija",
     "object": "attēlu",
     "forms": [
       [
@@ -4130,7 +4130,7 @@
   {
     "infinitive": "ierakstīt",
     "translation": "to record",
-    "class": "2. konjugācija",
+    "class": "3. konjugācija",
     "object": "adresi",
     "forms": [
       [
@@ -4162,7 +4162,7 @@
   {
     "infinitive": "izlasīt",
     "translation": "to read through",
-    "class": "2. konjugācija",
+    "class": "3. konjugācija",
     "object": "rakstu",
     "forms": [
       [
@@ -4194,7 +4194,7 @@
   {
     "infinitive": "pārrakstīt",
     "translation": "to rewrite",
-    "class": "2. konjugācija",
+    "class": "3. konjugācija",
     "object": "teikumu",
     "forms": [
       [
@@ -4322,7 +4322,7 @@
   {
     "infinitive": "apsolīt",
     "translation": "to promise",
-    "class": "2. konjugācija",
+    "class": "3. konjugācija",
     "object": "palīdzēt",
     "forms": [
       [
@@ -4354,7 +4354,7 @@
   {
     "infinitive": "atļaut",
     "translation": "to allow",
-    "class": "2. konjugācija",
+    "class": "1. konjugācija",
     "object": "bērniem",
     "forms": [
       [
@@ -4450,7 +4450,7 @@
   {
     "infinitive": "uzticēties",
     "translation": "to trust",
-    "class": "2. konjugācija",
+    "class": "3. konjugācija, atgriezeniskā",
     "object": "draugam",
     "forms": [
       [
@@ -4482,7 +4482,7 @@
   {
     "infinitive": "pateikties",
     "translation": "to thank",
-    "class": "1. konjugācija",
+    "class": "1. konjugācija, atgriezeniskā",
     "object": "par palīdzību",
     "forms": [
       [
@@ -4674,7 +4674,7 @@
   {
     "infinitive": "redzēt",
     "translation": "to see",
-    "class": "2. konjugācija (-ēt)",
+    "class": "3. konjugācija",
     "object": "papildu piemērs 6",
     "forms": [
       [
@@ -4706,7 +4706,7 @@
   {
     "infinitive": "runāt",
     "translation": "to speak",
-    "class": "2. konjugācija (-āt)",
+    "class": "2. konjugācija",
     "object": "papildu piemērs 7",
     "forms": [
       [
@@ -4770,7 +4770,7 @@
   {
     "infinitive": "mācīties",
     "translation": "to study/learn",
-    "class": "2. konjugācija (-īties), atgriezeniskā",
+    "class": "3. konjugācija, atgriezeniskā",
     "object": "papildu piemērs 9",
     "forms": [
       [
@@ -4802,7 +4802,7 @@
   {
     "infinitive": "gribēt",
     "translation": "to want",
-    "class": "2. konjugācija (-ēt)",
+    "class": "3. konjugācija",
     "object": "papildu piemērs 10",
     "forms": [
       [
@@ -4834,7 +4834,7 @@
   {
     "infinitive": "varēt",
     "translation": "to be able to",
-    "class": "2. konjugācija (-ēt)",
+    "class": "3. konjugācija",
     "object": "papildu piemērs 11",
     "forms": [
       [
@@ -4930,7 +4930,7 @@
   {
     "infinitive": "lasīt",
     "translation": "to read",
-    "class": "2. konjugācija (-īt)",
+    "class": "3. konjugācija",
     "object": "papildu piemērs 14",
     "forms": [
       [
@@ -4962,7 +4962,7 @@
   {
     "infinitive": "rakstīt",
     "translation": "to write",
-    "class": "2. konjugācija (-īt)",
+    "class": "3. konjugācija",
     "object": "papildu piemērs 15",
     "forms": [
       [
@@ -4994,7 +4994,7 @@
   {
     "infinitive": "skatīties",
     "translation": "to watch/look",
-    "class": "2. konjugācija (-īties), atgriezeniskā",
+    "class": "3. konjugācija, atgriezeniskā",
     "object": "papildu piemērs 16",
     "forms": [
       [
@@ -5026,7 +5026,7 @@
   {
     "infinitive": "klausīties",
     "translation": "to listen",
-    "class": "2. konjugācija (-īties), atgriezeniskā",
+    "class": "3. konjugācija, atgriezeniskā",
     "object": "papildu piemērs 17",
     "forms": [
       [
@@ -5122,7 +5122,7 @@
   {
     "infinitive": "ēst",
     "translation": "to eat",
-    "class": "1. konjugācija, neregulārs",
+    "class": "1. konjugācija",
     "object": "papildu piemērs 20",
     "forms": [
       [
@@ -5186,7 +5186,7 @@
   {
     "infinitive": "gulēt",
     "translation": "to sleep/lie",
-    "class": "2. konjugācija (-ēt)",
+    "class": "3. konjugācija",
     "object": "papildu piemērs 22",
     "forms": [
       [
@@ -5314,7 +5314,7 @@
   {
     "infinitive": "dziedāt",
     "translation": "to sing",
-    "class": "2. konjugācija (-āt)",
+    "class": "3. konjugācija",
     "object": "papildu piemērs 26",
     "forms": [
       [
@@ -5346,7 +5346,7 @@
   {
     "infinitive": "dejot",
     "translation": "to dance",
-    "class": "3. konjugācija (-ot)",
+    "class": "2. konjugācija",
     "object": "papildu piemērs 27",
     "forms": [
       [
@@ -5410,7 +5410,7 @@
   {
     "infinitive": "raudāt",
     "translation": "to cry",
-    "class": "2. konjugācija (-āt)",
+    "class": "3. konjugācija",
     "object": "papildu piemērs 29",
     "forms": [
       [
@@ -5602,7 +5602,7 @@
   {
     "infinitive": "gaidīt",
     "translation": "to wait",
-    "class": "2. konjugācija (-īt)",
+    "class": "3. konjugācija",
     "object": "papildu piemērs 35",
     "forms": [
       [
@@ -5698,7 +5698,7 @@
   {
     "infinitive": "palīdzēt",
     "translation": "to help",
-    "class": "2. konjugācija (-ēt)",
+    "class": "3. konjugācija",
     "object": "papildu piemērs 38",
     "forms": [
       [
@@ -5743,7 +5743,7 @@
       ],
       [
         "sapratu",
-        "sapratu",
+        "saprati",
         "saprata",
         "sapratām",
         "sapratāt",
@@ -5762,7 +5762,7 @@
   {
     "infinitive": "atbildēt",
     "translation": "to answer",
-    "class": "2. konjugācija (-ēt)",
+    "class": "3. konjugācija",
     "object": "papildu piemērs 40",
     "forms": [
       [
@@ -5826,7 +5826,7 @@
   {
     "infinitive": "atcerēties",
     "translation": "to remember",
-    "class": "2. konjugācija (-ēties), atgriezeniskā",
+    "class": "3. konjugācija, atgriezeniskā",
     "object": "papildu piemērs 42",
     "forms": [
       [
@@ -5922,7 +5922,7 @@
   {
     "infinitive": "gaidīt",
     "translation": "to wait",
-    "class": "2. konjugācija (-īt)",
+    "class": "3. konjugācija",
     "object": "papildu piemērs 45",
     "forms": [
       [
@@ -6018,7 +6018,7 @@
   {
     "infinitive": "dzīvot",
     "translation": "to live",
-    "class": "3. konjugācija (-ot)",
+    "class": "2. konjugācija",
     "object": "papildu piemērs 48",
     "forms": [
       [
@@ -6082,7 +6082,7 @@
   {
     "infinitive": "mīlēt",
     "translation": "to love",
-    "class": "2. konjugācija (-ēt)",
+    "class": "3. konjugācija",
     "object": "papildu piemērs 50",
     "forms": [
       [
@@ -6146,7 +6146,7 @@
   {
     "infinitive": "sagatavot",
     "translation": "to prepare",
-    "class": "3. konjugācija (-ot)",
+    "class": "2. konjugācija",
     "object": "papildu piemērs 52",
     "forms": [
       [
