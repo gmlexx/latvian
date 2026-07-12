@@ -24,11 +24,26 @@ type question struct {
 	fem    bool
 }
 
+// randomTense picks a tense weighted to roughly match how often each tense
+// is actually used in everyday Latvian speech/writing: present tense
+// dominates, past tense is fairly common, and future tense is comparatively
+// rare.
+func randomTense() data.Tense {
+	switch n := rand.Intn(100); {
+	case n < 55:
+		return data.Present
+	case n < 90:
+		return data.Past
+	default:
+		return data.Future
+	}
+}
+
 func newQuestion(num int) question {
 	return question{
 		num:    num,
 		verb:   data.Verbs[rand.Intn(len(data.Verbs))],
-		tense:  data.Tense(rand.Intn(3)),
+		tense:  randomTense(),
 		person: data.PersonNumber(rand.Intn(6)),
 		fem:    rand.Intn(2) == 1,
 	}

@@ -1,0 +1,6402 @@
+[
+  {
+    "infinitive": "būt",
+    "translation": "to be",
+    "class": "neregulārs (irregular)",
+    "object": "mājās",
+    "forms": [
+      [
+        "esmu",
+        "esi",
+        "ir",
+        "esam",
+        "esat",
+        "ir"
+      ],
+      [
+        "biju",
+        "biji",
+        "bija",
+        "bijām",
+        "bijāt",
+        "bija"
+      ],
+      [
+        "būšu",
+        "būsi",
+        "būs",
+        "būsim",
+        "būsiet",
+        "būs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "iet",
+    "translation": "to go (on foot)",
+    "class": "1. konjugācija, neregulārs",
+    "object": "uz veikalu",
+    "forms": [
+      [
+        "eju",
+        "ej",
+        "iet",
+        "ejam",
+        "ejat",
+        "iet"
+      ],
+      [
+        "gāju",
+        "gāji",
+        "gāja",
+        "gājām",
+        "gājāt",
+        "gāja"
+      ],
+      [
+        "iešu",
+        "iesi",
+        "ies",
+        "iesim",
+        "iesiet",
+        "ies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "braukt",
+    "translation": "to go (by vehicle)",
+    "class": "1. konjugācija",
+    "object": "uz Rīgu",
+    "forms": [
+      [
+        "braucu",
+        "brauc",
+        "brauc",
+        "braucam",
+        "braucat",
+        "brauc"
+      ],
+      [
+        "braucu",
+        "brauci",
+        "brauca",
+        "braucām",
+        "braucāt",
+        "brauca"
+      ],
+      [
+        "braukšu",
+        "brauksi",
+        "brauks",
+        "brauksim",
+        "brauksiet",
+        "brauks"
+      ]
+    ]
+  },
+  {
+    "infinitive": "dot",
+    "translation": "to give",
+    "class": "1. konjugācija, neregulārs",
+    "object": "dāvanu",
+    "forms": [
+      [
+        "dodu",
+        "dod",
+        "dod",
+        "dodam",
+        "dodat",
+        "dod"
+      ],
+      [
+        "devu",
+        "devi",
+        "deva",
+        "devām",
+        "devāt",
+        "deva"
+      ],
+      [
+        "došu",
+        "dosi",
+        "dos",
+        "dosim",
+        "dosiet",
+        "dos"
+      ]
+    ]
+  },
+  {
+    "infinitive": "ņemt",
+    "translation": "to take",
+    "class": "1. konjugācija",
+    "object": "grāmatu",
+    "forms": [
+      [
+        "ņemu",
+        "ņem",
+        "ņem",
+        "ņemam",
+        "ņemat",
+        "ņem"
+      ],
+      [
+        "ņēmu",
+        "ņēmi",
+        "ņēma",
+        "ņēmām",
+        "ņēmāt",
+        "ņēma"
+      ],
+      [
+        "ņemšu",
+        "ņemsi",
+        "ņems",
+        "ņemsim",
+        "ņemsiet",
+        "ņems"
+      ]
+    ]
+  },
+  {
+    "infinitive": "redzēt",
+    "translation": "to see",
+    "class": "2. konjugācija (-ēt)",
+    "object": "draugu",
+    "forms": [
+      [
+        "redzu",
+        "redzi",
+        "redz",
+        "redzam",
+        "redzat",
+        "redz"
+      ],
+      [
+        "redzēju",
+        "redzēji",
+        "redzēja",
+        "redzējām",
+        "redzējāt",
+        "redzēja"
+      ],
+      [
+        "redzēšu",
+        "redzēsi",
+        "redzēs",
+        "redzēsim",
+        "redzēsiet",
+        "redzēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "runāt",
+    "translation": "to speak",
+    "class": "2. konjugācija (-āt)",
+    "object": "latviski",
+    "forms": [
+      [
+        "runāju",
+        "runā",
+        "runā",
+        "runājam",
+        "runājat",
+        "runā"
+      ],
+      [
+        "runāju",
+        "runāji",
+        "runāja",
+        "runājām",
+        "runājāt",
+        "runāja"
+      ],
+      [
+        "runāšu",
+        "runāsi",
+        "runās",
+        "runāsim",
+        "runāsiet",
+        "runās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "strādāt",
+    "translation": "to work",
+    "class": "2. konjugācija (-āt)",
+    "object": "birojā",
+    "forms": [
+      [
+        "strādāju",
+        "strādā",
+        "strādā",
+        "strādājam",
+        "strādājat",
+        "strādā"
+      ],
+      [
+        "strādāju",
+        "strādāji",
+        "strādāja",
+        "strādājām",
+        "strādājāt",
+        "strādāja"
+      ],
+      [
+        "strādāšu",
+        "strādāsi",
+        "strādās",
+        "strādāsim",
+        "strādāsiet",
+        "strādās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "mācīties",
+    "translation": "to study/learn",
+    "class": "2. konjugācija (-īties), atgriezeniskā",
+    "object": "latviešu valodu",
+    "forms": [
+      [
+        "mācos",
+        "mācies",
+        "mācās",
+        "mācāmies",
+        "mācāties",
+        "mācās"
+      ],
+      [
+        "mācījos",
+        "mācījies",
+        "mācījās",
+        "mācījāmies",
+        "mācījāties",
+        "mācījās"
+      ],
+      [
+        "mācīšos",
+        "mācīsies",
+        "mācīsies",
+        "mācīsimies",
+        "mācīsieties",
+        "mācīsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "gribēt",
+    "translation": "to want",
+    "class": "2. konjugācija (-ēt)",
+    "object": "kafiju",
+    "forms": [
+      [
+        "gribu",
+        "gribi",
+        "grib",
+        "gribam",
+        "gribat",
+        "grib"
+      ],
+      [
+        "gribēju",
+        "gribēji",
+        "gribēja",
+        "gribējām",
+        "gribējāt",
+        "gribēja"
+      ],
+      [
+        "gribēšu",
+        "gribēsi",
+        "gribēs",
+        "gribēsim",
+        "gribēsiet",
+        "gribēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "varēt",
+    "translation": "to be able to",
+    "class": "2. konjugācija (-ēt)",
+    "object": "palīdzēt",
+    "forms": [
+      [
+        "varu",
+        "vari",
+        "var",
+        "varam",
+        "varat",
+        "var"
+      ],
+      [
+        "varēju",
+        "varēji",
+        "varēja",
+        "varējām",
+        "varējāt",
+        "varēja"
+      ],
+      [
+        "varēšu",
+        "varēsi",
+        "varēs",
+        "varēsim",
+        "varēsiet",
+        "varēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "zināt",
+    "translation": "to know",
+    "class": "2. konjugācija (-āt)",
+    "object": "atbildi",
+    "forms": [
+      [
+        "zinu",
+        "zini",
+        "zina",
+        "zinām",
+        "zināt",
+        "zina"
+      ],
+      [
+        "zināju",
+        "zināji",
+        "zināja",
+        "zinājām",
+        "zinājāt",
+        "zināja"
+      ],
+      [
+        "zināšu",
+        "zināsi",
+        "zinās",
+        "zināsim",
+        "zināsiet",
+        "zinās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "domāt",
+    "translation": "to think",
+    "class": "2. konjugācija (-āt)",
+    "object": "par to",
+    "forms": [
+      [
+        "domāju",
+        "domā",
+        "domā",
+        "domājam",
+        "domājat",
+        "domā"
+      ],
+      [
+        "domāju",
+        "domāji",
+        "domāja",
+        "domājām",
+        "domājāt",
+        "domāja"
+      ],
+      [
+        "domāšu",
+        "domāsi",
+        "domās",
+        "domāsim",
+        "domāsiet",
+        "domās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "lasīt",
+    "translation": "to read",
+    "class": "2. konjugācija (-īt)",
+    "object": "grāmatu",
+    "forms": [
+      [
+        "lasu",
+        "lasi",
+        "lasa",
+        "lasām",
+        "lasāt",
+        "lasa"
+      ],
+      [
+        "lasīju",
+        "lasīji",
+        "lasīja",
+        "lasījām",
+        "lasījāt",
+        "lasīja"
+      ],
+      [
+        "lasīšu",
+        "lasīsi",
+        "lasīs",
+        "lasīsim",
+        "lasīsiet",
+        "lasīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "rakstīt",
+    "translation": "to write",
+    "class": "2. konjugācija (-īt)",
+    "object": "vēstuli",
+    "forms": [
+      [
+        "rakstu",
+        "raksti",
+        "raksta",
+        "rakstām",
+        "rakstāt",
+        "raksta"
+      ],
+      [
+        "rakstīju",
+        "rakstīji",
+        "rakstīja",
+        "rakstījām",
+        "rakstījāt",
+        "rakstīja"
+      ],
+      [
+        "rakstīšu",
+        "rakstīsi",
+        "rakstīs",
+        "rakstīsim",
+        "rakstīsiet",
+        "rakstīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "skatīties",
+    "translation": "to watch/look",
+    "class": "2. konjugācija (-īties), atgriezeniskā",
+    "object": "televīzoru",
+    "forms": [
+      [
+        "skatos",
+        "skaties",
+        "skatās",
+        "skatāmies",
+        "skatāties",
+        "skatās"
+      ],
+      [
+        "skatījos",
+        "skatījies",
+        "skatījās",
+        "skatījāmies",
+        "skatījāties",
+        "skatījās"
+      ],
+      [
+        "skatīšos",
+        "skatīsies",
+        "skatīsies",
+        "skatīsimies",
+        "skatīsieties",
+        "skatīsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "klausīties",
+    "translation": "to listen",
+    "class": "2. konjugācija (-īties), atgriezeniskā",
+    "object": "mūziku",
+    "forms": [
+      [
+        "klausos",
+        "klausies",
+        "klausās",
+        "klausāmies",
+        "klausāties",
+        "klausās"
+      ],
+      [
+        "klausījos",
+        "klausījies",
+        "klausījās",
+        "klausījāmies",
+        "klausījāties",
+        "klausījās"
+      ],
+      [
+        "klausīšos",
+        "klausīsies",
+        "klausīsies",
+        "klausīsimies",
+        "klausīsieties",
+        "klausīsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "just",
+    "translation": "to feel",
+    "class": "1. konjugācija",
+    "object": "prieku",
+    "forms": [
+      [
+        "jūtu",
+        "jūti",
+        "jūt",
+        "jūtam",
+        "jūtat",
+        "jūt"
+      ],
+      [
+        "jutu",
+        "juti",
+        "juta",
+        "jutām",
+        "jutāt",
+        "juta"
+      ],
+      [
+        "jutīšu",
+        "jutīsi",
+        "jutīs",
+        "jutīsim",
+        "jutīsiet",
+        "jutīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "just",
+    "translation": "to feel",
+    "class": "1. konjugācija",
+    "object": "nogurumu",
+    "forms": [
+      [
+        "jūtu",
+        "jūti",
+        "jūt",
+        "jūtam",
+        "jūtat",
+        "jūt"
+      ],
+      [
+        "jutu",
+        "juti",
+        "juta",
+        "jutām",
+        "jutāt",
+        "juta"
+      ],
+      [
+        "jutīšu",
+        "jutīsi",
+        "jutīs",
+        "jutīsim",
+        "jutīsiet",
+        "jutīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "ēst",
+    "translation": "to eat",
+    "class": "1. konjugācija, neregulārs",
+    "object": "brokastis",
+    "forms": [
+      [
+        "ēdu",
+        "ēd",
+        "ēd",
+        "ēdam",
+        "ēdat",
+        "ēd"
+      ],
+      [
+        "ēdu",
+        "ēdi",
+        "ēda",
+        "ēdām",
+        "ēdāt",
+        "ēda"
+      ],
+      [
+        "ēdīšu",
+        "ēdīsi",
+        "ēdīs",
+        "ēdīsim",
+        "ēdīsiet",
+        "ēdīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "dzert",
+    "translation": "to drink",
+    "class": "1. konjugācija",
+    "object": "ūdeni",
+    "forms": [
+      [
+        "dzeru",
+        "dzer",
+        "dzer",
+        "dzeram",
+        "dzerat",
+        "dzer"
+      ],
+      [
+        "dzēru",
+        "dzēri",
+        "dzēra",
+        "dzērām",
+        "dzērāt",
+        "dzēra"
+      ],
+      [
+        "dzeršu",
+        "dzersi",
+        "dzers",
+        "dzersim",
+        "dzersiet",
+        "dzers"
+      ]
+    ]
+  },
+  {
+    "infinitive": "gulēt",
+    "translation": "to sleep/lie",
+    "class": "2. konjugācija (-ēt)",
+    "object": "līdz pusdienlaikam",
+    "forms": [
+      [
+        "guļu",
+        "guli",
+        "guļ",
+        "guļam",
+        "guļat",
+        "guļ"
+      ],
+      [
+        "gulēju",
+        "gulēji",
+        "gulēja",
+        "gulējām",
+        "gulējāt",
+        "gulēja"
+      ],
+      [
+        "gulēšu",
+        "gulēsi",
+        "gulēs",
+        "gulēsim",
+        "gulēsiet",
+        "gulēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "celties",
+    "translation": "to get up",
+    "class": "1. konjugācija, atgriezeniskā",
+    "object": "agri",
+    "forms": [
+      [
+        "ceļos",
+        "ceļies",
+        "ceļas",
+        "ceļamies",
+        "ceļaties",
+        "ceļas"
+      ],
+      [
+        "cēlos",
+        "cēlies",
+        "cēlās",
+        "cēlāmies",
+        "cēlāties",
+        "cēlās"
+      ],
+      [
+        "celšos",
+        "celsies",
+        "celsies",
+        "celsimies",
+        "celsieties",
+        "celsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "strādāt",
+    "translation": "to work",
+    "class": "2. konjugācija (-āt)",
+    "object": "dārzā",
+    "forms": [
+      [
+        "strādāju",
+        "strādā",
+        "strādā",
+        "strādājam",
+        "strādājat",
+        "strādā"
+      ],
+      [
+        "strādāju",
+        "strādāji",
+        "strādāja",
+        "strādājām",
+        "strādājāt",
+        "strādāja"
+      ],
+      [
+        "strādāšu",
+        "strādāsi",
+        "strādās",
+        "strādāsim",
+        "strādāsiet",
+        "strādās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "spēlēt",
+    "translation": "to play",
+    "class": "2. konjugācija (-ēt)",
+    "object": "futbolu",
+    "forms": [
+      [
+        "spēlēju",
+        "spēlē",
+        "spēlē",
+        "spēlējam",
+        "spēlējat",
+        "spēlē"
+      ],
+      [
+        "spēlēju",
+        "spēlēji",
+        "spēlēja",
+        "spēlējām",
+        "spēlējāt",
+        "spēlēja"
+      ],
+      [
+        "spēlēšu",
+        "spēlēsi",
+        "spēlēs",
+        "spēlēsim",
+        "spēlēsiet",
+        "spēlēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "dziedāt",
+    "translation": "to sing",
+    "class": "2. konjugācija (-āt)",
+    "object": "skaisti",
+    "forms": [
+      [
+        "dziedu",
+        "dziedi",
+        "dzied",
+        "dziedam",
+        "dziedat",
+        "dzied"
+      ],
+      [
+        "dziedāju",
+        "dziedāji",
+        "dziedāja",
+        "dziedājām",
+        "dziedājāt",
+        "dziedāja"
+      ],
+      [
+        "dziedāšu",
+        "dziedāsi",
+        "dziedās",
+        "dziedāsim",
+        "dziedāsiet",
+        "dziedās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "dejot",
+    "translation": "to dance",
+    "class": "3. konjugācija (-ot)",
+    "object": "valsi",
+    "forms": [
+      [
+        "dejoju",
+        "dejo",
+        "dejo",
+        "dejojam",
+        "dejojat",
+        "dejo"
+      ],
+      [
+        "dejoju",
+        "dejoji",
+        "dejoja",
+        "dejojām",
+        "dejojāt",
+        "dejoja"
+      ],
+      [
+        "dejošu",
+        "dejosi",
+        "dejos",
+        "dejosim",
+        "dejosiet",
+        "dejos"
+      ]
+    ]
+  },
+  {
+    "infinitive": "smieties",
+    "translation": "to laugh",
+    "class": "1. konjugācija, atgriezeniskā",
+    "object": "no jokiem",
+    "forms": [
+      [
+        "smejos",
+        "smejies",
+        "smejas",
+        "smejamies",
+        "smejaties",
+        "smejas"
+      ],
+      [
+        "smējos",
+        "smējies",
+        "smējās",
+        "smējāmies",
+        "smējāties",
+        "smējās"
+      ],
+      [
+        "smiešos",
+        "smiesies",
+        "smiesies",
+        "smiesimies",
+        "smiesieties",
+        "smiesies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "raudāt",
+    "translation": "to cry",
+    "class": "2. konjugācija (-āt)",
+    "object": "no prieka",
+    "forms": [
+      [
+        "raudu",
+        "raudi",
+        "raud",
+        "raudam",
+        "raudat",
+        "raud"
+      ],
+      [
+        "raudāju",
+        "raudāji",
+        "raudāja",
+        "raudājām",
+        "raudājāt",
+        "raudāja"
+      ],
+      [
+        "raudāšu",
+        "raudāsi",
+        "raudās",
+        "raudāsim",
+        "raudāsiet",
+        "raudās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "meklēt",
+    "translation": "to look for",
+    "class": "2. konjugācija (-ēt)",
+    "object": "atslēgas",
+    "forms": [
+      [
+        "meklēju",
+        "meklē",
+        "meklē",
+        "meklējam",
+        "meklējat",
+        "meklē"
+      ],
+      [
+        "meklēju",
+        "meklēji",
+        "meklēja",
+        "meklējām",
+        "meklējāt",
+        "meklēja"
+      ],
+      [
+        "meklēšu",
+        "meklēsi",
+        "meklēs",
+        "meklēsim",
+        "meklēsiet",
+        "meklēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "atrast",
+    "translation": "to find",
+    "class": "1. konjugācija",
+    "object": "risinājumu",
+    "forms": [
+      [
+        "atrodu",
+        "atrodi",
+        "atrod",
+        "atrodam",
+        "atrodat",
+        "atrod"
+      ],
+      [
+        "atradu",
+        "atradi",
+        "atrada",
+        "atradām",
+        "atradāt",
+        "atrada"
+      ],
+      [
+        "atradīšu",
+        "atradīsi",
+        "atradīs",
+        "atradīsim",
+        "atradīsiet",
+        "atradīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "pirkt",
+    "translation": "to buy",
+    "class": "1. konjugācija",
+    "object": "jaunu telefonu",
+    "forms": [
+      [
+        "pērku",
+        "pērc",
+        "pērk",
+        "pērkam",
+        "pērkat",
+        "pērk"
+      ],
+      [
+        "pirku",
+        "pirki",
+        "pirka",
+        "pirkām",
+        "pirkāt",
+        "pirka"
+      ],
+      [
+        "pirkšu",
+        "pirksi",
+        "pirks",
+        "pirksim",
+        "pirksiet",
+        "pirks"
+      ]
+    ]
+  },
+  {
+    "infinitive": "pārdot",
+    "translation": "to sell",
+    "class": "1. konjugācija, neregulārs",
+    "object": "veco velosipēdu",
+    "forms": [
+      [
+        "pārdodu",
+        "pārdod",
+        "pārdod",
+        "pārdodam",
+        "pārdodat",
+        "pārdod"
+      ],
+      [
+        "pārdevu",
+        "pārdevi",
+        "pārdeva",
+        "pārdevām",
+        "pārdevāt",
+        "pārdeva"
+      ],
+      [
+        "pārdošu",
+        "pārdosi",
+        "pārdos",
+        "pārdosim",
+        "pārdosiet",
+        "pārdos"
+      ]
+    ]
+  },
+  {
+    "infinitive": "maksāt",
+    "translation": "to pay/cost",
+    "class": "2. konjugācija (-āt)",
+    "object": "rēķinu",
+    "forms": [
+      [
+        "maksāju",
+        "maksā",
+        "maksā",
+        "maksājam",
+        "maksājat",
+        "maksā"
+      ],
+      [
+        "maksāju",
+        "maksāji",
+        "maksāja",
+        "maksājām",
+        "maksājāt",
+        "maksāja"
+      ],
+      [
+        "maksāšu",
+        "maksāsi",
+        "maksās",
+        "maksāsim",
+        "maksāsiet",
+        "maksās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "gaidīt",
+    "translation": "to wait",
+    "class": "2. konjugācija (-īt)",
+    "object": "autobusu",
+    "forms": [
+      [
+        "gaidu",
+        "gaidi",
+        "gaida",
+        "gaidām",
+        "gaidāt",
+        "gaida"
+      ],
+      [
+        "gaidīju",
+        "gaidīji",
+        "gaidīja",
+        "gaidījām",
+        "gaidījāt",
+        "gaidīja"
+      ],
+      [
+        "gaidīšu",
+        "gaidīsi",
+        "gaidīs",
+        "gaidīsim",
+        "gaidīsiet",
+        "gaidīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "sākt",
+    "translation": "to start",
+    "class": "1. konjugācija",
+    "object": "darbu",
+    "forms": [
+      [
+        "sāku",
+        "sāc",
+        "sāk",
+        "sākam",
+        "sākat",
+        "sāk"
+      ],
+      [
+        "sāku",
+        "sāki",
+        "sāka",
+        "sākām",
+        "sākāt",
+        "sāka"
+      ],
+      [
+        "sākšu",
+        "sāksi",
+        "sāks",
+        "sāksim",
+        "sāksiet",
+        "sāks"
+      ]
+    ]
+  },
+  {
+    "infinitive": "beigt",
+    "translation": "to finish",
+    "class": "1. konjugācija",
+    "object": "skolu",
+    "forms": [
+      [
+        "beidzu",
+        "beidz",
+        "beidz",
+        "beidzam",
+        "beidzat",
+        "beidz"
+      ],
+      [
+        "beidzu",
+        "beidzi",
+        "beidza",
+        "beidzām",
+        "beidzāt",
+        "beidza"
+      ],
+      [
+        "beigšu",
+        "beigsi",
+        "beigs",
+        "beigsim",
+        "beigsiet",
+        "beigs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "palīdzēt",
+    "translation": "to help",
+    "class": "2. konjugācija (-ēt)",
+    "object": "draugam",
+    "forms": [
+      [
+        "palīdzu",
+        "palīdzi",
+        "palīdz",
+        "palīdzam",
+        "palīdzat",
+        "palīdz"
+      ],
+      [
+        "palīdzēju",
+        "palīdzēji",
+        "palīdzēja",
+        "palīdzējām",
+        "palīdzējāt",
+        "palīdzēja"
+      ],
+      [
+        "palīdzēšu",
+        "palīdzēsi",
+        "palīdzēs",
+        "palīdzēsim",
+        "palīdzēsiet",
+        "palīdzēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "saprast",
+    "translation": "to understand",
+    "class": "1. konjugācija",
+    "object": "jautājumu",
+    "forms": [
+      [
+        "saprotu",
+        "saproti",
+        "saprot",
+        "saprotam",
+        "saprotat",
+        "saprot"
+      ],
+      [
+        "sapratu",
+        "sapratu",
+        "saprata",
+        "sapratām",
+        "sapratāt",
+        "saprata"
+      ],
+      [
+        "sapratīšu",
+        "sapratīsi",
+        "sapratīs",
+        "sapratīsim",
+        "sapratīsiet",
+        "sapratīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "atbildēt",
+    "translation": "to answer",
+    "class": "2. konjugācija (-ēt)",
+    "object": "uz jautājumu",
+    "forms": [
+      [
+        "atbildu",
+        "atbildi",
+        "atbild",
+        "atbildam",
+        "atbildat",
+        "atbild"
+      ],
+      [
+        "atbildēju",
+        "atbildēji",
+        "atbildēja",
+        "atbildējām",
+        "atbildējāt",
+        "atbildēja"
+      ],
+      [
+        "atbildēšu",
+        "atbildēsi",
+        "atbildēs",
+        "atbildēsim",
+        "atbildēsiet",
+        "atbildēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "jautāt",
+    "translation": "to ask",
+    "class": "2. konjugācija (-āt)",
+    "object": "skolotājam",
+    "forms": [
+      [
+        "jautāju",
+        "jautā",
+        "jautā",
+        "jautājam",
+        "jautājat",
+        "jautā"
+      ],
+      [
+        "jautāju",
+        "jautāji",
+        "jautāja",
+        "jautājām",
+        "jautājāt",
+        "jautāja"
+      ],
+      [
+        "jautāšu",
+        "jautāsi",
+        "jautās",
+        "jautāsim",
+        "jautāsiet",
+        "jautās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "atcerēties",
+    "translation": "to remember",
+    "class": "2. konjugācija (-ēties), atgriezeniskā",
+    "object": "viņa vārdu",
+    "forms": [
+      [
+        "atceros",
+        "atceries",
+        "atceras",
+        "atceramies",
+        "atceraties",
+        "atceras"
+      ],
+      [
+        "atcerējos",
+        "atcerējies",
+        "atcerējās",
+        "atcerējāmies",
+        "atcerējāties",
+        "atcerējās"
+      ],
+      [
+        "atcerēšos",
+        "atcerēsies",
+        "atcerēsies",
+        "atcerēsimies",
+        "atcerēsieties",
+        "atcerēsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "aizmirst",
+    "translation": "to forget",
+    "class": "1. konjugācija",
+    "object": "atslēgas",
+    "forms": [
+      [
+        "aizmirstu",
+        "aizmirsti",
+        "aizmirst",
+        "aizmirstam",
+        "aizmirstat",
+        "aizmirst"
+      ],
+      [
+        "aizmirsu",
+        "aizmirsi",
+        "aizmirsa",
+        "aizmirsām",
+        "aizmirsāt",
+        "aizmirsa"
+      ],
+      [
+        "aizmirsīšu",
+        "aizmirsīsi",
+        "aizmirsīs",
+        "aizmirsīsim",
+        "aizmirsīsiet",
+        "aizmirsīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "sākt",
+    "translation": "to begin",
+    "class": "1. konjugācija",
+    "object": "mācības",
+    "forms": [
+      [
+        "sāku",
+        "sāc",
+        "sāk",
+        "sākam",
+        "sākat",
+        "sāk"
+      ],
+      [
+        "sāku",
+        "sāki",
+        "sāka",
+        "sākām",
+        "sākāt",
+        "sāka"
+      ],
+      [
+        "sākšu",
+        "sāksi",
+        "sāks",
+        "sāksim",
+        "sāksiet",
+        "sāks"
+      ]
+    ]
+  },
+  {
+    "infinitive": "gaidīt",
+    "translation": "to wait",
+    "class": "2. konjugācija (-īt)",
+    "object": "vēstuli",
+    "forms": [
+      [
+        "gaidu",
+        "gaidi",
+        "gaida",
+        "gaidām",
+        "gaidāt",
+        "gaida"
+      ],
+      [
+        "gaidīju",
+        "gaidīji",
+        "gaidīja",
+        "gaidījām",
+        "gaidījāt",
+        "gaidīja"
+      ],
+      [
+        "gaidīšu",
+        "gaidīsi",
+        "gaidīs",
+        "gaidīsim",
+        "gaidīsiet",
+        "gaidīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "iegūt",
+    "translation": "to obtain",
+    "class": "1. konjugācija",
+    "object": "jaunus draugus",
+    "forms": [
+      [
+        "iegūstu",
+        "iegūsti",
+        "iegūst",
+        "iegūstam",
+        "iegūstat",
+        "iegūst"
+      ],
+      [
+        "ieguvu",
+        "ieguvi",
+        "ieguva",
+        "ieguvām",
+        "ieguvāt",
+        "ieguva"
+      ],
+      [
+        "iegūšu",
+        "iegūsi",
+        "iegūs",
+        "iegūsim",
+        "iegūsiet",
+        "iegūs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "sākt",
+    "translation": "to start",
+    "class": "1. konjugācija",
+    "object": "projektu",
+    "forms": [
+      [
+        "sāku",
+        "sāc",
+        "sāk",
+        "sākam",
+        "sākat",
+        "sāk"
+      ],
+      [
+        "sāku",
+        "sāki",
+        "sāka",
+        "sākām",
+        "sākāt",
+        "sāka"
+      ],
+      [
+        "sākšu",
+        "sāksi",
+        "sāks",
+        "sāksim",
+        "sāksiet",
+        "sāks"
+      ]
+    ]
+  },
+  {
+    "infinitive": "dzīvot",
+    "translation": "to live",
+    "class": "3. konjugācija (-ot)",
+    "object": "Rīgā",
+    "forms": [
+      [
+        "dzīvoju",
+        "dzīvo",
+        "dzīvo",
+        "dzīvojam",
+        "dzīvojat",
+        "dzīvo"
+      ],
+      [
+        "dzīvoju",
+        "dzīvoji",
+        "dzīvoja",
+        "dzīvojām",
+        "dzīvojāt",
+        "dzīvoja"
+      ],
+      [
+        "dzīvošu",
+        "dzīvosi",
+        "dzīvos",
+        "dzīvosim",
+        "dzīvosiet",
+        "dzīvos"
+      ]
+    ]
+  },
+  {
+    "infinitive": "strādāt",
+    "translation": "to work",
+    "class": "2. konjugācija (-āt)",
+    "object": "veikalā",
+    "forms": [
+      [
+        "strādāju",
+        "strādā",
+        "strādā",
+        "strādājam",
+        "strādājat",
+        "strādā"
+      ],
+      [
+        "strādāju",
+        "strādāji",
+        "strādāja",
+        "strādājām",
+        "strādājāt",
+        "strādāja"
+      ],
+      [
+        "strādāšu",
+        "strādāsi",
+        "strādās",
+        "strādāsim",
+        "strādāsiet",
+        "strādās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "mīlēt",
+    "translation": "to love",
+    "class": "2. konjugācija (-ēt)",
+    "object": "savu ģimeni",
+    "forms": [
+      [
+        "mīlu",
+        "mīli",
+        "mīl",
+        "mīlam",
+        "mīlat",
+        "mīl"
+      ],
+      [
+        "mīlēju",
+        "mīlēji",
+        "mīlēja",
+        "mīlējām",
+        "mīlējāt",
+        "mīlēja"
+      ],
+      [
+        "mīlēšu",
+        "mīlēsi",
+        "mīlēs",
+        "mīlēsim",
+        "mīlēsiet",
+        "mīlēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "patikt",
+    "translation": "to like/please",
+    "class": "1. konjugācija",
+    "object": "šī filma",
+    "forms": [
+      [
+        "patīku",
+        "patīc",
+        "patīk",
+        "patīkam",
+        "patīkat",
+        "patīk"
+      ],
+      [
+        "patiku",
+        "patiki",
+        "patika",
+        "patikām",
+        "patikāt",
+        "patika"
+      ],
+      [
+        "patikšu",
+        "patiksi",
+        "patiks",
+        "patiksim",
+        "patiksiet",
+        "patiks"
+      ]
+    ]
+  },
+  {
+    "infinitive": "sagatavot",
+    "translation": "to prepare",
+    "class": "3. konjugācija (-ot)",
+    "object": "vakariņas",
+    "forms": [
+      [
+        "sagatavoju",
+        "sagatavo",
+        "sagatavo",
+        "sagatavojam",
+        "sagatavojat",
+        "sagatavo"
+      ],
+      [
+        "sagatavoju",
+        "sagatavoji",
+        "sagatavoja",
+        "sagatavojām",
+        "sagatavojāt",
+        "sagatavoja"
+      ],
+      [
+        "sagatavošu",
+        "sagatavosi",
+        "sagatavos",
+        "sagatavosim",
+        "sagatavosiet",
+        "sagatavos"
+      ]
+    ]
+  },
+  {
+    "infinitive": "sākt",
+    "translation": "to start",
+    "class": "1. konjugācija",
+    "object": "sarunu",
+    "forms": [
+      [
+        "sāku",
+        "sāc",
+        "sāk",
+        "sākam",
+        "sākat",
+        "sāk"
+      ],
+      [
+        "sāku",
+        "sāki",
+        "sāka",
+        "sākām",
+        "sākāt",
+        "sāka"
+      ],
+      [
+        "sākšu",
+        "sāksi",
+        "sāks",
+        "sāksim",
+        "sāksiet",
+        "sāks"
+      ]
+    ]
+  },
+  {
+    "infinitive": "beigties",
+    "translation": "to end (itself)",
+    "class": "1. konjugācija, atgriezeniskā",
+    "object": "vēlu",
+    "forms": [
+      [
+        "beidzos",
+        "beidzies",
+        "beidzas",
+        "beidzamies",
+        "beidzaties",
+        "beidzas"
+      ],
+      [
+        "beidzos",
+        "beidzies",
+        "beidzās",
+        "beidzāmies",
+        "beidzāties",
+        "beidzās"
+      ],
+      [
+        "beigšos",
+        "beigsies",
+        "beigsies",
+        "beigsimies",
+        "beigsieties",
+        "beigsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "vest",
+    "translation": "to lead/bring",
+    "class": "1. konjugācija",
+    "object": "bērnu uz skolu",
+    "forms": [
+      [
+        "vedu",
+        "ved",
+        "ved",
+        "vedam",
+        "vedat",
+        "ved"
+      ],
+      [
+        "vedu",
+        "vedi",
+        "veda",
+        "vedām",
+        "vedāt",
+        "veda"
+      ],
+      [
+        "vedīšu",
+        "vedīsi",
+        "vedīs",
+        "vedīsim",
+        "vedīsiet",
+        "vedīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "nest",
+    "translation": "to carry",
+    "class": "1. konjugācija",
+    "object": "somu",
+    "forms": [
+      [
+        "nesu",
+        "nes",
+        "nes",
+        "nesam",
+        "nesat",
+        "nes"
+      ],
+      [
+        "nesu",
+        "nesi",
+        "nesa",
+        "nesām",
+        "nesāt",
+        "nesa"
+      ],
+      [
+        "nesīšu",
+        "nesīsi",
+        "nesīs",
+        "nesīsim",
+        "nesīsiet",
+        "nesīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "krist",
+    "translation": "to fall",
+    "class": "1. konjugācija",
+    "object": "uz ceļa",
+    "forms": [
+      [
+        "krītu",
+        "krīti",
+        "krīt",
+        "krītam",
+        "krītat",
+        "krīt"
+      ],
+      [
+        "kritu",
+        "kriti",
+        "krita",
+        "kritām",
+        "kritāt",
+        "krita"
+      ],
+      [
+        "kritīšu",
+        "kritīsi",
+        "kritīs",
+        "kritīsim",
+        "kritīsiet",
+        "kritīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "augt",
+    "translation": "to grow",
+    "class": "1. konjugācija",
+    "object": "ātri",
+    "forms": [
+      [
+        "augu",
+        "augi",
+        "aug",
+        "augam",
+        "augat",
+        "aug"
+      ],
+      [
+        "augu",
+        "augi",
+        "auga",
+        "augām",
+        "augāt",
+        "auga"
+      ],
+      [
+        "augšu",
+        "augsi",
+        "augs",
+        "augsim",
+        "augsiet",
+        "augs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "mest",
+    "translation": "to throw",
+    "class": "1. konjugācija",
+    "object": "bumbu",
+    "forms": [
+      [
+        "metu",
+        "met",
+        "met",
+        "metam",
+        "metat",
+        "met"
+      ],
+      [
+        "metu",
+        "meti",
+        "meta",
+        "metām",
+        "metāt",
+        "meta"
+      ],
+      [
+        "metīšu",
+        "metīsi",
+        "metīs",
+        "metīsim",
+        "metīsiet",
+        "metīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "zaudēt",
+    "translation": "to lose",
+    "class": "2. konjugācija (-ēt)",
+    "object": "spēli",
+    "forms": [
+      [
+        "zaudēju",
+        "zaudē",
+        "zaudē",
+        "zaudējam",
+        "zaudējat",
+        "zaudē"
+      ],
+      [
+        "zaudēju",
+        "zaudēji",
+        "zaudēja",
+        "zaudējām",
+        "zaudējāt",
+        "zaudēja"
+      ],
+      [
+        "zaudēšu",
+        "zaudēsi",
+        "zaudēs",
+        "zaudēsim",
+        "zaudēsiet",
+        "zaudēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "uzvarēt",
+    "translation": "to win",
+    "class": "2. konjugācija (-ēt)",
+    "object": "sacensībās",
+    "forms": [
+      [
+        "uzvaru",
+        "uzvari",
+        "uzvar",
+        "uzvaram",
+        "uzvarat",
+        "uzvar"
+      ],
+      [
+        "uzvarēju",
+        "uzvarēji",
+        "uzvarēja",
+        "uzvarējām",
+        "uzvarējāt",
+        "uzvarēja"
+      ],
+      [
+        "uzvarēšu",
+        "uzvarēsi",
+        "uzvarēs",
+        "uzvarēsim",
+        "uzvarēsiet",
+        "uzvarēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "sākt",
+    "translation": "to start",
+    "class": "1. konjugācija",
+    "object": "koncertu",
+    "forms": [
+      [
+        "sāku",
+        "sāc",
+        "sāk",
+        "sākam",
+        "sākat",
+        "sāk"
+      ],
+      [
+        "sāku",
+        "sāki",
+        "sāka",
+        "sākām",
+        "sākāt",
+        "sāka"
+      ],
+      [
+        "sākšu",
+        "sāksi",
+        "sāks",
+        "sāksim",
+        "sāksiet",
+        "sāks"
+      ]
+    ]
+  },
+  {
+    "infinitive": "griezties",
+    "translation": "to turn",
+    "class": "1. konjugācija, atgriezeniskā",
+    "object": "pa labi",
+    "forms": [
+      [
+        "griežos",
+        "griezies",
+        "griežas",
+        "griežamies",
+        "griežaties",
+        "griežas"
+      ],
+      [
+        "griezos",
+        "griezies",
+        "griezās",
+        "griezāmies",
+        "griezāties",
+        "griezās"
+      ],
+      [
+        "griezīšos",
+        "griezīsies",
+        "griezīsies",
+        "griezīsimies",
+        "griezīsieties",
+        "griezīsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "sākt",
+    "translation": "to start",
+    "class": "1. konjugācija",
+    "object": "gatavot",
+    "forms": [
+      [
+        "sāku",
+        "sāc",
+        "sāk",
+        "sākam",
+        "sākat",
+        "sāk"
+      ],
+      [
+        "sāku",
+        "sāki",
+        "sāka",
+        "sākām",
+        "sākāt",
+        "sāka"
+      ],
+      [
+        "sākšu",
+        "sāksi",
+        "sāks",
+        "sāksim",
+        "sāksiet",
+        "sāks"
+      ]
+    ]
+  },
+  {
+    "infinitive": "domāt",
+    "translation": "to think",
+    "class": "2. konjugācija (-āt)",
+    "object": "par nākotni",
+    "forms": [
+      [
+        "domāju",
+        "domā",
+        "domā",
+        "domājam",
+        "domājat",
+        "domā"
+      ],
+      [
+        "domāju",
+        "domāji",
+        "domāja",
+        "domājām",
+        "domājāt",
+        "domāja"
+      ],
+      [
+        "domāšu",
+        "domāsi",
+        "domās",
+        "domāsim",
+        "domāsiet",
+        "domās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "apmeklēt",
+    "translation": "to visit",
+    "class": "2. konjugācija (-ēt)",
+    "object": "muzeju",
+    "forms": [
+      [
+        "apmeklēju",
+        "apmeklē",
+        "apmeklē",
+        "apmeklējam",
+        "apmeklējat",
+        "apmeklē"
+      ],
+      [
+        "apmeklēju",
+        "apmeklēji",
+        "apmeklēja",
+        "apmeklējām",
+        "apmeklējāt",
+        "apmeklēja"
+      ],
+      [
+        "apmeklēšu",
+        "apmeklēsi",
+        "apmeklēs",
+        "apmeklēsim",
+        "apmeklēsiet",
+        "apmeklēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "atvērt",
+    "translation": "to open",
+    "class": "1. konjugācija",
+    "object": "logu",
+    "forms": [
+      [
+        "atveru",
+        "atver",
+        "atver",
+        "atveram",
+        "atverat",
+        "atver"
+      ],
+      [
+        "atvēru",
+        "atvēri",
+        "atvēra",
+        "atvērām",
+        "atvērāt",
+        "atvēra"
+      ],
+      [
+        "atvēršu",
+        "atvērsi",
+        "atvērs",
+        "atvērsim",
+        "atvērsiet",
+        "atvērs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "aizvērt",
+    "translation": "to close",
+    "class": "1. konjugācija",
+    "object": "durvis",
+    "forms": [
+      [
+        "aizveru",
+        "aizver",
+        "aizver",
+        "aizveram",
+        "aizverat",
+        "aizver"
+      ],
+      [
+        "aizvēru",
+        "aizvēri",
+        "aizvēra",
+        "aizvērām",
+        "aizvērāt",
+        "aizvēra"
+      ],
+      [
+        "aizvēršu",
+        "aizvērsi",
+        "aizvērs",
+        "aizvērsim",
+        "aizvērsiet",
+        "aizvērs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "ieiet",
+    "translation": "to enter",
+    "class": "1. konjugācija, neregulārs",
+    "object": "istabā",
+    "forms": [
+      [
+        "ieeju",
+        "ieej",
+        "ieiet",
+        "ieejam",
+        "ieejat",
+        "ieiet"
+      ],
+      [
+        "iegāju",
+        "iegāji",
+        "iegāja",
+        "iegājām",
+        "iegājāt",
+        "iegāja"
+      ],
+      [
+        "ieiešu",
+        "ieiesi",
+        "ieies",
+        "ieiesim",
+        "ieiesiet",
+        "ieies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "iziet",
+    "translation": "to exit/go out",
+    "class": "1. konjugācija, neregulārs",
+    "object": "no mājas",
+    "forms": [
+      [
+        "izeju",
+        "izej",
+        "iziet",
+        "izejam",
+        "izejat",
+        "iziet"
+      ],
+      [
+        "izgāju",
+        "izgāji",
+        "izgāja",
+        "izgājām",
+        "izgājāt",
+        "izgāja"
+      ],
+      [
+        "iziešu",
+        "iziesi",
+        "izies",
+        "iziesim",
+        "iziesiet",
+        "izies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "braukt",
+    "translation": "to drive/travel",
+    "class": "1. konjugācija",
+    "object": "ar autobusu",
+    "forms": [
+      [
+        "braucu",
+        "brauc",
+        "brauc",
+        "braucam",
+        "braucat",
+        "brauc"
+      ],
+      [
+        "braucu",
+        "brauci",
+        "brauca",
+        "braucām",
+        "braucāt",
+        "brauca"
+      ],
+      [
+        "braukšu",
+        "brauksi",
+        "brauks",
+        "brauksim",
+        "brauksiet",
+        "brauks"
+      ]
+    ]
+  },
+  {
+    "infinitive": "lidot",
+    "translation": "to fly",
+    "class": "3. konjugācija (-ot)",
+    "object": "uz Londonu",
+    "forms": [
+      [
+        "lidoju",
+        "lido",
+        "lido",
+        "lidojam",
+        "lidojat",
+        "lido"
+      ],
+      [
+        "lidoju",
+        "lidoji",
+        "lidoja",
+        "lidojām",
+        "lidojāt",
+        "lidoja"
+      ],
+      [
+        "lidošu",
+        "lidosi",
+        "lidos",
+        "lidosim",
+        "lidosiet",
+        "lidos"
+      ]
+    ]
+  },
+  {
+    "infinitive": "peldēt",
+    "translation": "to swim",
+    "class": "2. konjugācija (-ēt)",
+    "object": "baseinā",
+    "forms": [
+      [
+        "peldu",
+        "peldi",
+        "peld",
+        "peldam",
+        "peldat",
+        "peld"
+      ],
+      [
+        "peldēju",
+        "peldēji",
+        "peldēja",
+        "peldējām",
+        "peldējāt",
+        "peldēja"
+      ],
+      [
+        "peldēšu",
+        "peldēsi",
+        "peldēs",
+        "peldēsim",
+        "peldēsiet",
+        "peldēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "skriet",
+    "translation": "to run",
+    "class": "1. konjugācija",
+    "object": "parkā",
+    "forms": [
+      [
+        "skrienu",
+        "skrien",
+        "skrien",
+        "skrienam",
+        "skrienat",
+        "skrien"
+      ],
+      [
+        "skrēju",
+        "skrēji",
+        "skrēja",
+        "skrējām",
+        "skrējāt",
+        "skrēja"
+      ],
+      [
+        "skriešu",
+        "skriesi",
+        "skries",
+        "skriesim",
+        "skriesiet",
+        "skries"
+      ]
+    ]
+  },
+  {
+    "infinitive": "sēdēt",
+    "translation": "to sit",
+    "class": "2. konjugācija (-ēt)",
+    "object": "krēslā",
+    "forms": [
+      [
+        "sēžu",
+        "sēdi",
+        "sēž",
+        "sēžam",
+        "sēžat",
+        "sēž"
+      ],
+      [
+        "sēdēju",
+        "sēdēji",
+        "sēdēja",
+        "sēdējām",
+        "sēdējāt",
+        "sēdēja"
+      ],
+      [
+        "sēdēšu",
+        "sēdēsi",
+        "sēdēs",
+        "sēdēsim",
+        "sēdēsiet",
+        "sēdēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "stāvēt",
+    "translation": "to stand",
+    "class": "2. konjugācija (-ēt)",
+    "object": "rindā",
+    "forms": [
+      [
+        "stāvu",
+        "stāvi",
+        "stāv",
+        "stāvam",
+        "stāvat",
+        "stāv"
+      ],
+      [
+        "stāvēju",
+        "stāvēji",
+        "stāvēja",
+        "stāvējām",
+        "stāvējāt",
+        "stāvēja"
+      ],
+      [
+        "stāvēšu",
+        "stāvēsi",
+        "stāvēs",
+        "stāvēsim",
+        "stāvēsiet",
+        "stāvēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "dzīvot",
+    "translation": "to live",
+    "class": "3. konjugācija (-ot)",
+    "object": "Latvijā",
+    "forms": [
+      [
+        "dzīvoju",
+        "dzīvo",
+        "dzīvo",
+        "dzīvojam",
+        "dzīvojat",
+        "dzīvo"
+      ],
+      [
+        "dzīvoju",
+        "dzīvoji",
+        "dzīvoja",
+        "dzīvojām",
+        "dzīvojāt",
+        "dzīvoja"
+      ],
+      [
+        "dzīvošu",
+        "dzīvosi",
+        "dzīvos",
+        "dzīvosim",
+        "dzīvosiet",
+        "dzīvos"
+      ]
+    ]
+  },
+  {
+    "infinitive": "mirt",
+    "translation": "to die",
+    "class": "1. konjugācija",
+    "object": "mierīgi",
+    "forms": [
+      [
+        "mirstu",
+        "mirsti",
+        "mirst",
+        "mirstam",
+        "mirstat",
+        "mirst"
+      ],
+      [
+        "miru",
+        "miri",
+        "mira",
+        "mirām",
+        "mirāt",
+        "mira"
+      ],
+      [
+        "miršu",
+        "mirsi",
+        "mirs",
+        "mirsim",
+        "mirsiet",
+        "mirs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "saglabāt",
+    "translation": "to preserve/save",
+    "class": "2. konjugācija (-āt)",
+    "object": "informāciju",
+    "forms": [
+      [
+        "saglabāju",
+        "saglabā",
+        "saglabā",
+        "saglabājam",
+        "saglabājat",
+        "saglabā"
+      ],
+      [
+        "saglabāju",
+        "saglabāji",
+        "saglabāja",
+        "saglabājām",
+        "saglabājāt",
+        "saglabāja"
+      ],
+      [
+        "saglabāšu",
+        "saglabāsi",
+        "saglabās",
+        "saglabāsim",
+        "saglabāsiet",
+        "saglabās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "mainīt",
+    "translation": "to change",
+    "class": "2. konjugācija (-īt)",
+    "object": "plānu",
+    "forms": [
+      [
+        "mainu",
+        "maini",
+        "maina",
+        "mainām",
+        "maināt",
+        "maina"
+      ],
+      [
+        "mainīju",
+        "mainīji",
+        "mainīja",
+        "mainījām",
+        "mainījāt",
+        "mainīja"
+      ],
+      [
+        "mainīšu",
+        "mainīsi",
+        "mainīs",
+        "mainīsim",
+        "mainīsiet",
+        "mainīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "lietot",
+    "translation": "to use",
+    "class": "3. konjugācija (-ot)",
+    "object": "vārdnīcu",
+    "forms": [
+      [
+        "lietoju",
+        "lieto",
+        "lieto",
+        "lietojam",
+        "lietojat",
+        "lieto"
+      ],
+      [
+        "lietoju",
+        "lietoji",
+        "lietoja",
+        "lietojām",
+        "lietojāt",
+        "lietoja"
+      ],
+      [
+        "lietošu",
+        "lietosi",
+        "lietos",
+        "lietosim",
+        "lietosiet",
+        "lietos"
+      ]
+    ]
+  },
+  {
+    "infinitive": "izmantot",
+    "translation": "to use",
+    "class": "3. konjugācija (-ot)",
+    "object": "laiku",
+    "forms": [
+      [
+        "izmantoju",
+        "izmanto",
+        "izmanto",
+        "izmantojam",
+        "izmantojat",
+        "izmanto"
+      ],
+      [
+        "izmantoju",
+        "izmantoji",
+        "izmantoja",
+        "izmantojām",
+        "izmantojāt",
+        "izmantoja"
+      ],
+      [
+        "izmantošu",
+        "izmantosi",
+        "izmantos",
+        "izmantosim",
+        "izmantosiet",
+        "izmantos"
+      ]
+    ]
+  },
+  {
+    "infinitive": "veidot",
+    "translation": "to create",
+    "class": "3. konjugācija (-ot)",
+    "object": "plānu",
+    "forms": [
+      [
+        "veidoju",
+        "veido",
+        "veido",
+        "veidojam",
+        "veidojat",
+        "veido"
+      ],
+      [
+        "veidoju",
+        "veidoji",
+        "veidoja",
+        "veidojām",
+        "veidojāt",
+        "veidoja"
+      ],
+      [
+        "veidošu",
+        "veidosi",
+        "veidos",
+        "veidosim",
+        "veidosiet",
+        "veidos"
+      ]
+    ]
+  },
+  {
+    "infinitive": "būvēt",
+    "translation": "to build",
+    "class": "2. konjugācija (-ēt)",
+    "object": "māju",
+    "forms": [
+      [
+        "būvēju",
+        "būvē",
+        "būvē",
+        "būvējam",
+        "būvējat",
+        "būvē"
+      ],
+      [
+        "būvēju",
+        "būvēji",
+        "būvēja",
+        "būvējām",
+        "būvējāt",
+        "būvēja"
+      ],
+      [
+        "būvēšu",
+        "būvēsi",
+        "būvēs",
+        "būvēsim",
+        "būvēsiet",
+        "būvēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "remontēt",
+    "translation": "to repair",
+    "class": "2. konjugācija (-ēt)",
+    "object": "velosipēdu",
+    "forms": [
+      [
+        "remontēju",
+        "remontē",
+        "remontē",
+        "remontējam",
+        "remontējat",
+        "remontē"
+      ],
+      [
+        "remontēju",
+        "remontēji",
+        "remontēja",
+        "remontējām",
+        "remontējāt",
+        "remontēja"
+      ],
+      [
+        "remontēšu",
+        "remontēsi",
+        "remontēs",
+        "remontēsim",
+        "remontēsiet",
+        "remontēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "mazgāt",
+    "translation": "to wash",
+    "class": "2. konjugācija (-āt)",
+    "object": "traukus",
+    "forms": [
+      [
+        "mazgāju",
+        "mazgā",
+        "mazgā",
+        "mazgājam",
+        "mazgājat",
+        "mazgā"
+      ],
+      [
+        "mazgāju",
+        "mazgāji",
+        "mazgāja",
+        "mazgājām",
+        "mazgājāt",
+        "mazgāja"
+      ],
+      [
+        "mazgāšu",
+        "mazgāsi",
+        "mazgās",
+        "mazgāsim",
+        "mazgāsiet",
+        "mazgās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "tīrīt",
+    "translation": "to clean",
+    "class": "2. konjugācija (-īt)",
+    "object": "istabu",
+    "forms": [
+      [
+        "tīru",
+        "tīri",
+        "tīra",
+        "tīrām",
+        "tīrāt",
+        "tīra"
+      ],
+      [
+        "tīrīju",
+        "tīrīji",
+        "tīrīja",
+        "tīrījām",
+        "tīrījāt",
+        "tīrīja"
+      ],
+      [
+        "tīrīšu",
+        "tīrīsi",
+        "tīrīs",
+        "tīrīsim",
+        "tīrīsiet",
+        "tīrīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "gatavot",
+    "translation": "to cook",
+    "class": "3. konjugācija (-ot)",
+    "object": "zupu",
+    "forms": [
+      [
+        "gatavoju",
+        "gatavo",
+        "gatavo",
+        "gatavojam",
+        "gatavojat",
+        "gatavo"
+      ],
+      [
+        "gatavoju",
+        "gatavoji",
+        "gatavoja",
+        "gatavojām",
+        "gatavojāt",
+        "gatavoja"
+      ],
+      [
+        "gatavošu",
+        "gatavosi",
+        "gatavos",
+        "gatavosim",
+        "gatavosiet",
+        "gatavos"
+      ]
+    ]
+  },
+  {
+    "infinitive": "cept",
+    "translation": "to bake/fry",
+    "class": "1. konjugācija",
+    "object": "kūku",
+    "forms": [
+      [
+        "cepu",
+        "cep",
+        "cep",
+        "cepam",
+        "cepat",
+        "cep"
+      ],
+      [
+        "cepu",
+        "cepi",
+        "cepa",
+        "cepām",
+        "cepāt",
+        "cepa"
+      ],
+      [
+        "cepšu",
+        "cepsi",
+        "ceps",
+        "cepsim",
+        "cepsiet",
+        "ceps"
+      ]
+    ]
+  },
+  {
+    "infinitive": "vārīt",
+    "translation": "to boil/cook",
+    "class": "2. konjugācija (-īt)",
+    "object": "kartupeļus",
+    "forms": [
+      [
+        "vāru",
+        "vāri",
+        "vāra",
+        "vāram",
+        "vārat",
+        "vāra"
+      ],
+      [
+        "vārīju",
+        "vārīji",
+        "vārīja",
+        "vārījām",
+        "vārījāt",
+        "vārīja"
+      ],
+      [
+        "vārīšu",
+        "vārīsi",
+        "vārīs",
+        "vārīsim",
+        "vārīsiet",
+        "vārīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "griezt",
+    "translation": "to cut",
+    "class": "1. konjugācija",
+    "object": "maizi",
+    "forms": [
+      [
+        "griežu",
+        "griez",
+        "griež",
+        "griežam",
+        "griežat",
+        "griež"
+      ],
+      [
+        "griezu",
+        "griezi",
+        "grieza",
+        "griezām",
+        "griezāt",
+        "grieza"
+      ],
+      [
+        "griezīšu",
+        "griezīsi",
+        "griezīs",
+        "griezīsim",
+        "griezīsiet",
+        "griezīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "pievienot",
+    "translation": "to add",
+    "class": "3. konjugācija (-ot)",
+    "object": "sāli",
+    "forms": [
+      [
+        "pievienoju",
+        "pievieno",
+        "pievieno",
+        "pievienojam",
+        "pievienojat",
+        "pievieno"
+      ],
+      [
+        "pievienoju",
+        "pievienoji",
+        "pievienoja",
+        "pievienojām",
+        "pievienojāt",
+        "pievienoja"
+      ],
+      [
+        "pievienošu",
+        "pievienosi",
+        "pievienos",
+        "pievienosim",
+        "pievienosiet",
+        "pievienos"
+      ]
+    ]
+  },
+  {
+    "infinitive": "izvēlēties",
+    "translation": "to choose",
+    "class": "2. konjugācija (-ēties), atgriezeniskā",
+    "object": "dāvanu",
+    "forms": [
+      [
+        "izvēlos",
+        "izvēlies",
+        "izvēlas",
+        "izvēlamies",
+        "izvēlaties",
+        "izvēlas"
+      ],
+      [
+        "izvēlējos",
+        "izvēlējies",
+        "izvēlējās",
+        "izvēlējāmies",
+        "izvēlējāties",
+        "izvēlējās"
+      ],
+      [
+        "izvēlēšos",
+        "izvēlēsies",
+        "izvēlēsies",
+        "izvēlēsimies",
+        "izvēlēsieties",
+        "izvēlēsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "vēlēties",
+    "translation": "to wish",
+    "class": "2. konjugācija (-ēties), atgriezeniskā",
+    "object": "veiksmi",
+    "forms": [
+      [
+        "vēlos",
+        "vēlies",
+        "vēlas",
+        "vēlamies",
+        "vēlaties",
+        "vēlas"
+      ],
+      [
+        "vēlējos",
+        "vēlējies",
+        "vēlējās",
+        "vēlējāmies",
+        "vēlējāties",
+        "vēlējās"
+      ],
+      [
+        "vēlēšos",
+        "vēlēsies",
+        "vēlēsies",
+        "vēlēsimies",
+        "vēlēsieties",
+        "vēlēsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "baidīties",
+    "translation": "to be afraid",
+    "class": "2. konjugācija (-īties), atgriezeniskā",
+    "object": "no tumsas",
+    "forms": [
+      [
+        "baidos",
+        "baidies",
+        "baidās",
+        "baidāmies",
+        "baidāties",
+        "baidās"
+      ],
+      [
+        "baidījos",
+        "baidījies",
+        "baidījās",
+        "baidījāmies",
+        "baidījāties",
+        "baidījās"
+      ],
+      [
+        "baidīšos",
+        "baidīsies",
+        "baidīsies",
+        "baidīsimies",
+        "baidīsieties",
+        "baidīsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "cerēt",
+    "translation": "to hope",
+    "class": "2. konjugācija (-ēt)",
+    "object": "uz labāko",
+    "forms": [
+      [
+        "ceru",
+        "ceri",
+        "cer",
+        "ceram",
+        "cerat",
+        "cer"
+      ],
+      [
+        "cerēju",
+        "cerēji",
+        "cerēja",
+        "cerējām",
+        "cerējāt",
+        "cerēja"
+      ],
+      [
+        "cerēšu",
+        "cerēsi",
+        "cerēs",
+        "cerēsim",
+        "cerēsiet",
+        "cerēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "ticēt",
+    "translation": "to believe",
+    "class": "2. konjugācija (-ēt)",
+    "object": "draugam",
+    "forms": [
+      [
+        "ticu",
+        "tici",
+        "tic",
+        "ticam",
+        "ticat",
+        "tic"
+      ],
+      [
+        "ticēju",
+        "ticēji",
+        "ticēja",
+        "ticējām",
+        "ticējāt",
+        "ticēja"
+      ],
+      [
+        "ticēšu",
+        "ticēsi",
+        "ticēs",
+        "ticēsim",
+        "ticēsiet",
+        "ticēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "šaubīties",
+    "translation": "to doubt",
+    "class": "2. konjugācija (-īties), atgriezeniskā",
+    "object": "par atbildi",
+    "forms": [
+      [
+        "šaubos",
+        "šaubies",
+        "šaubās",
+        "šaubāmies",
+        "šaubāties",
+        "šaubās"
+      ],
+      [
+        "šaubījos",
+        "šaubījies",
+        "šaubījās",
+        "šaubījāmies",
+        "šaubījāties",
+        "šaubījās"
+      ],
+      [
+        "šaubīšos",
+        "šaubīsies",
+        "šaubīsies",
+        "šaubīsimies",
+        "šaubīsieties",
+        "šaubīsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "cerēt",
+    "translation": "to hope",
+    "class": "2. konjugācija (-ēt)",
+    "object": "uz palīdzību",
+    "forms": [
+      [
+        "ceru",
+        "ceri",
+        "cer",
+        "ceram",
+        "cerat",
+        "cer"
+      ],
+      [
+        "cerēju",
+        "cerēji",
+        "cerēja",
+        "cerējām",
+        "cerējāt",
+        "cerēja"
+      ],
+      [
+        "cerēšu",
+        "cerēsi",
+        "cerēs",
+        "cerēsim",
+        "cerēsiet",
+        "cerēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "smaidīt",
+    "translation": "to smile",
+    "class": "2. konjugācija (-īt)",
+    "object": "kamerai",
+    "forms": [
+      [
+        "smaidu",
+        "smaidi",
+        "smaida",
+        "smaidām",
+        "smaidāt",
+        "smaida"
+      ],
+      [
+        "smaidīju",
+        "smaidīji",
+        "smaidīja",
+        "smaidījām",
+        "smaidījāt",
+        "smaidīja"
+      ],
+      [
+        "smaidīšu",
+        "smaidīsi",
+        "smaidīs",
+        "smaidīsim",
+        "smaidīsiet",
+        "smaidīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "sveikt",
+    "translation": "to greet/congratulate",
+    "class": "1. konjugācija",
+    "object": "viesus",
+    "forms": [
+      [
+        "sveicu",
+        "sveic",
+        "sveic",
+        "sveicam",
+        "sveicat",
+        "sveic"
+      ],
+      [
+        "sveicu",
+        "sveici",
+        "sveica",
+        "sveicām",
+        "sveicāt",
+        "sveica"
+      ],
+      [
+        "sveikšu",
+        "sveiksi",
+        "sveiks",
+        "sveiksim",
+        "sveiksiet",
+        "sveiks"
+      ]
+    ]
+  },
+  {
+    "infinitive": "iepazīties",
+    "translation": "to get acquainted",
+    "class": "2. konjugācija (-īties), atgriezeniskā",
+    "object": "ar kaimiņu",
+    "forms": [
+      [
+        "iepazīstos",
+        "iepazīsties",
+        "iepazīstas",
+        "iepazīstamies",
+        "iepazīstaties",
+        "iepazīstas"
+      ],
+      [
+        "iepazinos",
+        "iepazinies",
+        "iepazinās",
+        "iepazināmies",
+        "iepazināties",
+        "iepazinās"
+      ],
+      [
+        "iepazīšos",
+        "iepazīsies",
+        "iepazīsies",
+        "iepazīsimies",
+        "iepazīsieties",
+        "iepazīsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "precēties",
+    "translation": "to marry",
+    "class": "2. konjugācija (-ēties), atgriezeniskā",
+    "object": "vasarā",
+    "forms": [
+      [
+        "precos",
+        "precies",
+        "precas",
+        "precamies",
+        "precāties",
+        "precas"
+      ],
+      [
+        "precējos",
+        "precējies",
+        "precējās",
+        "precējāmies",
+        "precējāties",
+        "precējās"
+      ],
+      [
+        "precēšos",
+        "precēsies",
+        "precēsies",
+        "precēsimies",
+        "precēsieties",
+        "precēsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "šķirties",
+    "translation": "to separate",
+    "class": "1. konjugācija, atgriezeniskā",
+    "object": "pēc darba",
+    "forms": [
+      [
+        "šķiros",
+        "šķiries",
+        "šķiras",
+        "šķiramies",
+        "šķiraties",
+        "šķiras"
+      ],
+      [
+        "šķīros",
+        "šķīries",
+        "šķīrās",
+        "šķīrāmies",
+        "šķīrāties",
+        "šķīrās"
+      ],
+      [
+        "šķiršos",
+        "šķirsies",
+        "šķirsies",
+        "šķirsimies",
+        "šķirsieties",
+        "šķirsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "piedzimt",
+    "translation": "to be born",
+    "class": "1. konjugācija",
+    "object": "pavasarī",
+    "forms": [
+      [
+        "piedzimstu",
+        "piedzimsti",
+        "piedzimst",
+        "piedzimstam",
+        "piedzimstat",
+        "piedzimst"
+      ],
+      [
+        "piedzimu",
+        "piedzimi",
+        "piedzima",
+        "piedzimām",
+        "piedz imāt",
+        "piedzima"
+      ],
+      [
+        "piedzimšu",
+        "piedzimsi",
+        "piedzims",
+        "piedzimsim",
+        "piedzimsiet",
+        "piedzims"
+      ]
+    ]
+  },
+  {
+    "infinitive": "pļaut",
+    "translation": "to mow",
+    "class": "1. konjugācija",
+    "object": "zāli",
+    "forms": [
+      [
+        "pļauju",
+        "pļauj",
+        "pļauj",
+        "pļaujam",
+        "pļaujat",
+        "pļauj"
+      ],
+      [
+        "pļāvu",
+        "pļāvi",
+        "pļāva",
+        "pļāvām",
+        "pļāvāt",
+        "pļāva"
+      ],
+      [
+        "pļaušu",
+        "pļausi",
+        "pļaus",
+        "pļausim",
+        "pļausiet",
+        "pļaus"
+      ]
+    ]
+  },
+  {
+    "infinitive": "spiest",
+    "translation": "to press",
+    "class": "1. konjugācija",
+    "object": "pogu",
+    "forms": [
+      [
+        "spiežu",
+        "spied",
+        "spiež",
+        "spiežam",
+        "spiežat",
+        "spiež"
+      ],
+      [
+        "spiedu",
+        "spiedi",
+        "spieda",
+        "spiedām",
+        "spiedāt",
+        "spieda"
+      ],
+      [
+        "spiedīšu",
+        "spiedīsi",
+        "spiedīs",
+        "spiedīsim",
+        "spiedīsiet",
+        "spiedīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "vilkt",
+    "translation": "to pull/wear",
+    "class": "1. konjugācija",
+    "object": "mēteli",
+    "forms": [
+      [
+        "velku",
+        "velc",
+        "velk",
+        "velkam",
+        "velkat",
+        "velk"
+      ],
+      [
+        "vilku",
+        "vilki",
+        "vilka",
+        "vilkām",
+        "vilkāt",
+        "vilka"
+      ],
+      [
+        "vilkšu",
+        "vilksi",
+        "vilks",
+        "vilksim",
+        "vilksiet",
+        "vilks"
+      ]
+    ]
+  },
+  {
+    "infinitive": "sūtīt",
+    "translation": "to send",
+    "class": "2. konjugācija (-īt)",
+    "object": "ziņu",
+    "forms": [
+      [
+        "sūtu",
+        "sūti",
+        "sūta",
+        "sūtām",
+        "sūtat",
+        "sūta"
+      ],
+      [
+        "sūtīju",
+        "sūtīji",
+        "sūtīja",
+        "sūtījām",
+        "sūtījāt",
+        "sūtīja"
+      ],
+      [
+        "sūtīšu",
+        "sūtīsi",
+        "sūtīs",
+        "sūtīsim",
+        "sūtīsiet",
+        "sūtīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "saņemt",
+    "translation": "to receive",
+    "class": "1. konjugācija",
+    "object": "vēstuli",
+    "forms": [
+      [
+        "saņemu",
+        "saņem",
+        "saņem",
+        "saņemam",
+        "saņemat",
+        "saņem"
+      ],
+      [
+        "saņēmu",
+        "saņēmi",
+        "saņēma",
+        "saņēmām",
+        "saņēmāt",
+        "saņēma"
+      ],
+      [
+        "saņemšu",
+        "saņemsi",
+        "saņems",
+        "saņemsim",
+        "saņemsiet",
+        "saņems"
+      ]
+    ]
+  },
+  {
+    "infinitive": "zvanīt",
+    "translation": "to call",
+    "class": "2. konjugācija (-īt)",
+    "object": "mammai",
+    "forms": [
+      [
+        "zvanu",
+        "zvani",
+        "zvana",
+        "zvanām",
+        "zvanāt",
+        "zvana"
+      ],
+      [
+        "zvanīju",
+        "zvanīji",
+        "zvanīja",
+        "zvanījām",
+        "zvanījāt",
+        "zvanīja"
+      ],
+      [
+        "zvanīšu",
+        "zvanīsi",
+        "zvanīs",
+        "zvanīsim",
+        "zvanīsiet",
+        "zvanīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "sarunāt",
+    "translation": "to arrange",
+    "class": "2. konjugācija (-āt)",
+    "object": "tikšanos",
+    "forms": [
+      [
+        "sarunāju",
+        "sarunā",
+        "sarunā",
+        "sarunājam",
+        "sarunājat",
+        "sarunā"
+      ],
+      [
+        "sarunāju",
+        "sarunāji",
+        "sarunāja",
+        "sarunājām",
+        "sarunājāt",
+        "sarunāja"
+      ],
+      [
+        "sarunāšu",
+        "sarunāsi",
+        "sarunās",
+        "sarunāsim",
+        "sarunāsiet",
+        "sarunās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "piedāvāt",
+    "translation": "to offer",
+    "class": "2. konjugācija (-āt)",
+    "object": "palīdzību",
+    "forms": [
+      [
+        "piedāvāju",
+        "piedāvā",
+        "piedāvā",
+        "piedāvājam",
+        "piedāvājat",
+        "piedāvā"
+      ],
+      [
+        "piedāvāju",
+        "piedāvāji",
+        "piedāvāja",
+        "piedāvājām",
+        "piedāvājāt",
+        "piedāvāja"
+      ],
+      [
+        "piedāvāšu",
+        "piedāvāsi",
+        "piedāvās",
+        "piedāvāsim",
+        "piedāvāsiet",
+        "piedāvās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "pieņemt",
+    "translation": "to accept",
+    "class": "1. konjugācija",
+    "object": "lēmumu",
+    "forms": [
+      [
+        "pieņemu",
+        "pieņem",
+        "pieņem",
+        "pieņemam",
+        "pieņemat",
+        "pieņem"
+      ],
+      [
+        "pieņēmu",
+        "pieņēmi",
+        "pieņēma",
+        "pieņēmām",
+        "pieņēmāt",
+        "pieņēma"
+      ],
+      [
+        "pieņemšu",
+        "pieņemsi",
+        "pieņems",
+        "pieņemsim",
+        "pieņemsiet",
+        "pieņems"
+      ]
+    ]
+  },
+  {
+    "infinitive": "noliegt",
+    "translation": "to deny",
+    "class": "1. konjugācija",
+    "object": "apsūdzību",
+    "forms": [
+      [
+        "noliedzu",
+        "noliedz",
+        "noliedz",
+        "noliedzam",
+        "noliedzat",
+        "noliedz"
+      ],
+      [
+        "noliedzu",
+        "noliedzi",
+        "noliedza",
+        "noliedzām",
+        "noliedzāt",
+        "noliedza"
+      ],
+      [
+        "noliegšu",
+        "noliegsi",
+        "noliegs",
+        "noliegsim",
+        "noliegsiet",
+        "noliegs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "pierādīt",
+    "translation": "to prove",
+    "class": "2. konjugācija (-īt)",
+    "object": "patiesību",
+    "forms": [
+      [
+        "pierādu",
+        "pierādi",
+        "pierāda",
+        "pierādām",
+        "pierādāt",
+        "pierāda"
+      ],
+      [
+        "pierādīju",
+        "pierādīji",
+        "pierādīja",
+        "pierādījām",
+        "pierādījāt",
+        "pierādīja"
+      ],
+      [
+        "pierādīšu",
+        "pierādīsi",
+        "pierādīs",
+        "pierādīsim",
+        "pierādīsiet",
+        "pierādīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "pārbaudīt",
+    "translation": "to check",
+    "class": "2. konjugācija (-īt)",
+    "object": "atbildi",
+    "forms": [
+      [
+        "pārbaudu",
+        "pārbaudi",
+        "pārbauda",
+        "pārbaudām",
+        "pārbaudāt",
+        "pārbauda"
+      ],
+      [
+        "pārbaudīju",
+        "pārbaudīji",
+        "pārbaudīja",
+        "pārbaudījām",
+        "pārbaudījāt",
+        "pārbaudīja"
+      ],
+      [
+        "pārbaudīšu",
+        "pārbaudīsi",
+        "pārbaudīs",
+        "pārbaudīsim",
+        "pārbaudīsiet",
+        "pārbaudīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "atkārtot",
+    "translation": "to repeat",
+    "class": "3. konjugācija (-ot)",
+    "object": "jautājumu",
+    "forms": [
+      [
+        "atkārtoju",
+        "atkārto",
+        "atkārto",
+        "atkārtojam",
+        "atkārtojat",
+        "atkārto"
+      ],
+      [
+        "atkārtoju",
+        "atkārtoji",
+        "atkārtoja",
+        "atkārtojām",
+        "atkārtojāt",
+        "atkārtoja"
+      ],
+      [
+        "atkārtošu",
+        "atkārtosi",
+        "atkārtos",
+        "atkārtosim",
+        "atkārtosiet",
+        "atkārtos"
+      ]
+    ]
+  },
+  {
+    "infinitive": "izskaidrot",
+    "translation": "to explain",
+    "class": "3. konjugācija (-ot)",
+    "object": "noteikumus",
+    "forms": [
+      [
+        "izskaidroju",
+        "izskaidro",
+        "izskaidro",
+        "izskaidrojam",
+        "izskaidrojat",
+        "izskaidro"
+      ],
+      [
+        "izskaidroju",
+        "izskaidroji",
+        "izskaidroja",
+        "izskaidrojām",
+        "izskaidrojāt",
+        "izskaidroja"
+      ],
+      [
+        "izskaidrošu",
+        "izskaidrosi",
+        "izskaidros",
+        "izskaidrosim",
+        "izskaidrosiet",
+        "izskaidros"
+      ]
+    ]
+  },
+  {
+    "infinitive": "mācīt",
+    "translation": "to teach",
+    "class": "2. konjugācija (-īt)",
+    "object": "bērnus",
+    "forms": [
+      [
+        "mācu",
+        "māci",
+        "māca",
+        "mācām",
+        "mācāt",
+        "māca"
+      ],
+      [
+        "mācīju",
+        "mācīji",
+        "mācīja",
+        "mācījām",
+        "mācījāt",
+        "mācīja"
+      ],
+      [
+        "mācīšu",
+        "mācīsi",
+        "mācīs",
+        "mācīsim",
+        "mācīsiet",
+        "mācīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "trenēties",
+    "translation": "to train",
+    "class": "2. konjugācija (-ēties), atgriezeniskā",
+    "object": "katru dienu",
+    "forms": [
+      [
+        "trenējos",
+        "trenējies",
+        "trenējas",
+        "trenējamies",
+        "trenējaties",
+        "trenējas"
+      ],
+      [
+        "trenējos",
+        "trenējies",
+        "trenējās",
+        "trenējāmies",
+        "trenējāties",
+        "trenējās"
+      ],
+      [
+        "trenēšos",
+        "trenēsies",
+        "trenēsies",
+        "trenēsimies",
+        "trenēsieties",
+        "trenēsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "atpūsties",
+    "translation": "to rest",
+    "class": "1. konjugācija, atgriezeniskā",
+    "object": "pēc darba",
+    "forms": [
+      [
+        "atpūšos",
+        "atpūties",
+        "atpūšas",
+        "atpūšamies",
+        "atpūšaties",
+        "atpūšas"
+      ],
+      [
+        "atpūtos",
+        "atpūties",
+        "atpūtās",
+        "atpūtāmies",
+        "atpūtāties",
+        "atpūtās"
+      ],
+      [
+        "atpūtīšos",
+        "atpūtīsies",
+        "atpūtīsies",
+        "atpūtīsimies",
+        "atpūtīsieties",
+        "atpūtīsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "pastaigāties",
+    "translation": "to take a walk",
+    "class": "2. konjugācija (-āties), atgriezeniskā",
+    "object": "parkā",
+    "forms": [
+      [
+        "pastaigājos",
+        "pastaigājies",
+        "pastaigājas",
+        "pastaigājamies",
+        "pastaigājaties",
+        "pastaigājas"
+      ],
+      [
+        "pastaigājos",
+        "pastaigājies",
+        "pastaigājās",
+        "pastaigājāmies",
+        "pastaigājāties",
+        "pastaigājās"
+      ],
+      [
+        "pastaigāšos",
+        "pastaigāsies",
+        "pastaigāsies",
+        "pastaigāsimies",
+        "pastaigāsieties",
+        "pastaigāsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "sagatavoties",
+    "translation": "to prepare oneself",
+    "class": "3. konjugācija (-oties), atgriezeniskā",
+    "object": "eksāmenam",
+    "forms": [
+      [
+        "sagatavojos",
+        "sagatavojies",
+        "sagatavojas",
+        "sagatavojamies",
+        "sagatavojaties",
+        "sagatavojas"
+      ],
+      [
+        "sagatavojos",
+        "sagatavojies",
+        "sagatavojās",
+        "sagatavojāmies",
+        "sagatavojāties",
+        "sagatavojās"
+      ],
+      [
+        "sagatavošos",
+        "sagatavosies",
+        "sagatavosies",
+        "sagatavosimies",
+        "sagatavosieties",
+        "sagatavosies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "aiziet",
+    "translation": "to leave",
+    "class": "1. konjugācija",
+    "object": "no darba",
+    "forms": [
+      [
+        "eju",
+        "ej",
+        "iet",
+        "ejam",
+        "ejat",
+        "iet"
+      ],
+      [
+        "gāju",
+        "gāji",
+        "gāja",
+        "gājām",
+        "gājāt",
+        "gāja"
+      ],
+      [
+        "iešu",
+        "iesi",
+        "ies",
+        "iesim",
+        "iesiet",
+        "ies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "atgriezties",
+    "translation": "to return",
+    "class": "1. konjugācija",
+    "object": "mājās",
+    "forms": [
+      [
+        "atgriežos",
+        "atgriezies",
+        "atgriežas",
+        "atgriežamies",
+        "atgriežaties",
+        "atgriežas"
+      ],
+      [
+        "atgriezos",
+        "atgriezies",
+        "atgriezās",
+        "atgriezāmies",
+        "atgriezāties",
+        "atgriezās"
+      ],
+      [
+        "atgriezīšos",
+        "atgriezīsies",
+        "atgriezīsies",
+        "atgriezīsimies",
+        "atgriezīsieties",
+        "atgriezīsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "sagaidīt",
+    "translation": "to await",
+    "class": "2. konjugācija",
+    "object": "viesus",
+    "forms": [
+      [
+        "sagaidu",
+        "sagaidi",
+        "sagaida",
+        "sagaidām",
+        "sagaidāt",
+        "sagaida"
+      ],
+      [
+        "sagaidīju",
+        "sagaidīji",
+        "sagaidīja",
+        "sagaidījām",
+        "sagaidījāt",
+        "sagaidīja"
+      ],
+      [
+        "sagaidīšu",
+        "sagaidīsi",
+        "sagaidīs",
+        "sagaidīsim",
+        "sagaidīsiet",
+        "sagaidīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "izbaudīt",
+    "translation": "to enjoy",
+    "class": "2. konjugācija",
+    "object": "brīvdienas",
+    "forms": [
+      [
+        "izbaudu",
+        "izbaudi",
+        "izbauda",
+        "izbaudām",
+        "izbaudāt",
+        "izbauda"
+      ],
+      [
+        "izbaudīju",
+        "izbaudīji",
+        "izbaudīja",
+        "izbaudījām",
+        "izbaudījāt",
+        "izbaudīja"
+      ],
+      [
+        "izbaudīšu",
+        "izbaudīsi",
+        "izbaudīs",
+        "izbaudīsim",
+        "izbaudīsiet",
+        "izbaudīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "aprakstīt",
+    "translation": "to describe",
+    "class": "2. konjugācija",
+    "object": "attēlu",
+    "forms": [
+      [
+        "aprakstu",
+        "apraksti",
+        "apraksta",
+        "aprakstām",
+        "aprakstāt",
+        "apraksta"
+      ],
+      [
+        "aprakstīju",
+        "aprakstīji",
+        "aprakstīja",
+        "aprakstījām",
+        "aprakstījāt",
+        "aprakstīja"
+      ],
+      [
+        "aprakstīšu",
+        "aprakstīsi",
+        "aprakstīs",
+        "aprakstīsim",
+        "aprakstīsiet",
+        "aprakstīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "ierakstīt",
+    "translation": "to record",
+    "class": "2. konjugācija",
+    "object": "adresi",
+    "forms": [
+      [
+        "ierakstu",
+        "ieraksti",
+        "ieraksta",
+        "ierakstām",
+        "ierakstāt",
+        "ieraksta"
+      ],
+      [
+        "ierakstīju",
+        "ierakstīji",
+        "ierakstīja",
+        "ierakstījām",
+        "ierakstījāt",
+        "ierakstīja"
+      ],
+      [
+        "ierakstīšu",
+        "ierakstīsi",
+        "ierakstīs",
+        "ierakstīsim",
+        "ierakstīsiet",
+        "ierakstīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "izlasīt",
+    "translation": "to read through",
+    "class": "2. konjugācija",
+    "object": "rakstu",
+    "forms": [
+      [
+        "izlasu",
+        "izlasi",
+        "izlasa",
+        "izlasām",
+        "izlasāt",
+        "izlasa"
+      ],
+      [
+        "izlasīju",
+        "izlasīji",
+        "izlasīja",
+        "izlasījām",
+        "izlasījāt",
+        "izlasīja"
+      ],
+      [
+        "izlasīšu",
+        "izlasīsi",
+        "izlasīs",
+        "izlasīsim",
+        "izlasīsiet",
+        "izlasīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "pārrakstīt",
+    "translation": "to rewrite",
+    "class": "2. konjugācija",
+    "object": "teikumu",
+    "forms": [
+      [
+        "pārrakstu",
+        "pārraksti",
+        "pārraksta",
+        "pārrakstām",
+        "pārrakstāt",
+        "pārraksta"
+      ],
+      [
+        "pārrakstīju",
+        "pārrakstīji",
+        "pārrakstīja",
+        "pārrakstījām",
+        "pārrakstījāt",
+        "pārrakstīja"
+      ],
+      [
+        "pārrakstīšu",
+        "pārrakstīsi",
+        "pārrakstīs",
+        "pārrakstīsim",
+        "pārrakstīsiet",
+        "pārrakstīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "izrunāt",
+    "translation": "to pronounce",
+    "class": "2. konjugācija",
+    "object": "vārdu",
+    "forms": [
+      [
+        "izrunāju",
+        "izrunā",
+        "izrunā",
+        "izrunājam",
+        "izrunājat",
+        "izrunā"
+      ],
+      [
+        "izrunāju",
+        "izrunāji",
+        "izrunāja",
+        "izrunājām",
+        "izrunājāt",
+        "izrunāja"
+      ],
+      [
+        "izrunāšu",
+        "izrunāsi",
+        "izrunās",
+        "izrunāsim",
+        "izrunāsiet",
+        "izrunās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "piekrist",
+    "translation": "to agree",
+    "class": "1. konjugācija",
+    "object": "viedoklim",
+    "forms": [
+      [
+        "piekrītu",
+        "piekrīti",
+        "piekrīt",
+        "piekrītam",
+        "piekrītat",
+        "piekrīt"
+      ],
+      [
+        "piekritu",
+        "piekriti",
+        "piekrita",
+        "piekritām",
+        "piekritāt",
+        "piekrita"
+      ],
+      [
+        "piekritīšu",
+        "piekritīsi",
+        "piekritīs",
+        "piekritīsim",
+        "piekritīsiet",
+        "piekritīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "atteikties",
+    "translation": "to refuse",
+    "class": "1. konjugācija",
+    "object": "no piedāvājuma",
+    "forms": [
+      [
+        "atsakos",
+        "atsakies",
+        "atsakās",
+        "atsakāmies",
+        "atsakāties",
+        "atsakās"
+      ],
+      [
+        "atteicos",
+        "atteicies",
+        "atteicās",
+        "atteicāmies",
+        "atteicāties",
+        "atteicās"
+      ],
+      [
+        "atteikšos",
+        "atteiksies",
+        "atteiksies",
+        "atteiksimies",
+        "atteiksieties",
+        "atteiksies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "apsolīt",
+    "translation": "to promise",
+    "class": "2. konjugācija",
+    "object": "palīdzēt",
+    "forms": [
+      [
+        "apsolu",
+        "apsoli",
+        "apsola",
+        "apsolām",
+        "apsolāt",
+        "apsola"
+      ],
+      [
+        "apsolīju",
+        "apsolīji",
+        "apsolīja",
+        "apsolījām",
+        "apsolījāt",
+        "apsolīja"
+      ],
+      [
+        "apsolīšu",
+        "apsolīsi",
+        "apsolīs",
+        "apsolīsim",
+        "apsolīsiet",
+        "apsolīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "atļaut",
+    "translation": "to allow",
+    "class": "2. konjugācija",
+    "object": "bērniem",
+    "forms": [
+      [
+        "atļauju",
+        "atļauj",
+        "atļauj",
+        "atļaujam",
+        "atļaujat",
+        "atļauj"
+      ],
+      [
+        "atļāvu",
+        "atļāvi",
+        "atļāva",
+        "atļāvām",
+        "atļāvāt",
+        "atļāva"
+      ],
+      [
+        "atļaušu",
+        "atļausi",
+        "atļaus",
+        "atļausim",
+        "atļausiet",
+        "atļaus"
+      ]
+    ]
+  },
+  {
+    "infinitive": "aizliegt",
+    "translation": "to forbid",
+    "class": "1. konjugācija",
+    "object": "smēķēt",
+    "forms": [
+      [
+        "aizliedzu",
+        "aizliedz",
+        "aizliedz",
+        "aizliedzam",
+        "aizliedzat",
+        "aizliedz"
+      ],
+      [
+        "aizliedzu",
+        "aizliedzi",
+        "aizliedza",
+        "aizliedzām",
+        "aizliedzāt",
+        "aizliedza"
+      ],
+      [
+        "aizliegšu",
+        "aizliegsi",
+        "aizliegs",
+        "aizliegsim",
+        "aizliegsiet",
+        "aizliegs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "sargāt",
+    "translation": "to protect",
+    "class": "2. konjugācija",
+    "object": "dabu",
+    "forms": [
+      [
+        "sargāju",
+        "sargā",
+        "sargā",
+        "sargājam",
+        "sargājat",
+        "sargā"
+      ],
+      [
+        "sargāju",
+        "sargāji",
+        "sargāja",
+        "sargājām",
+        "sargājāt",
+        "sargāja"
+      ],
+      [
+        "sargāšu",
+        "sargāsi",
+        "sargās",
+        "sargāsim",
+        "sargāsiet",
+        "sargās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "uzticēties",
+    "translation": "to trust",
+    "class": "2. konjugācija",
+    "object": "draugam",
+    "forms": [
+      [
+        "uzticos",
+        "uzticies",
+        "uzticas",
+        "uzticamies",
+        "uzticaties",
+        "uzticas"
+      ],
+      [
+        "uzticējos",
+        "uzticējies",
+        "uzticējās",
+        "uzticējāmies",
+        "uzticējāties",
+        "uzticējās"
+      ],
+      [
+        "uzticēšos",
+        "uzticēsies",
+        "uzticēsies",
+        "uzticēsimies",
+        "uzticēsieties",
+        "uzticēsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "pateikties",
+    "translation": "to thank",
+    "class": "1. konjugācija",
+    "object": "par palīdzību",
+    "forms": [
+      [
+        "pateicos",
+        "pateicies",
+        "pateicas",
+        "pateicamies",
+        "pateicaties",
+        "pateicas"
+      ],
+      [
+        "pateicos",
+        "pateicies",
+        "pateicās",
+        "pateicāmies",
+        "pateicāties",
+        "pateicās"
+      ],
+      [
+        "pateikšos",
+        "pateiksies",
+        "pateiksies",
+        "pateiksimies",
+        "pateiksieties",
+        "pateiksies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "būt",
+    "translation": "to be",
+    "class": "neregulārs (irregular)",
+    "object": "papildu piemērs 1",
+    "forms": [
+      [
+        "esmu",
+        "esi",
+        "ir",
+        "esam",
+        "esat",
+        "ir"
+      ],
+      [
+        "biju",
+        "biji",
+        "bija",
+        "bijām",
+        "bijāt",
+        "bija"
+      ],
+      [
+        "būšu",
+        "būsi",
+        "būs",
+        "būsim",
+        "būsiet",
+        "būs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "iet",
+    "translation": "to go (on foot)",
+    "class": "1. konjugācija, neregulārs",
+    "object": "papildu piemērs 2",
+    "forms": [
+      [
+        "eju",
+        "ej",
+        "iet",
+        "ejam",
+        "ejat",
+        "iet"
+      ],
+      [
+        "gāju",
+        "gāji",
+        "gāja",
+        "gājām",
+        "gājāt",
+        "gāja"
+      ],
+      [
+        "iešu",
+        "iesi",
+        "ies",
+        "iesim",
+        "iesiet",
+        "ies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "braukt",
+    "translation": "to go (by vehicle)",
+    "class": "1. konjugācija",
+    "object": "papildu piemērs 3",
+    "forms": [
+      [
+        "braucu",
+        "brauc",
+        "brauc",
+        "braucam",
+        "braucat",
+        "brauc"
+      ],
+      [
+        "braucu",
+        "brauci",
+        "brauca",
+        "braucām",
+        "braucāt",
+        "brauca"
+      ],
+      [
+        "braukšu",
+        "brauksi",
+        "brauks",
+        "brauksim",
+        "brauksiet",
+        "brauks"
+      ]
+    ]
+  },
+  {
+    "infinitive": "dot",
+    "translation": "to give",
+    "class": "1. konjugācija, neregulārs",
+    "object": "papildu piemērs 4",
+    "forms": [
+      [
+        "dodu",
+        "dod",
+        "dod",
+        "dodam",
+        "dodat",
+        "dod"
+      ],
+      [
+        "devu",
+        "devi",
+        "deva",
+        "devām",
+        "devāt",
+        "deva"
+      ],
+      [
+        "došu",
+        "dosi",
+        "dos",
+        "dosim",
+        "dosiet",
+        "dos"
+      ]
+    ]
+  },
+  {
+    "infinitive": "ņemt",
+    "translation": "to take",
+    "class": "1. konjugācija",
+    "object": "papildu piemērs 5",
+    "forms": [
+      [
+        "ņemu",
+        "ņem",
+        "ņem",
+        "ņemam",
+        "ņemat",
+        "ņem"
+      ],
+      [
+        "ņēmu",
+        "ņēmi",
+        "ņēma",
+        "ņēmām",
+        "ņēmāt",
+        "ņēma"
+      ],
+      [
+        "ņemšu",
+        "ņemsi",
+        "ņems",
+        "ņemsim",
+        "ņemsiet",
+        "ņems"
+      ]
+    ]
+  },
+  {
+    "infinitive": "redzēt",
+    "translation": "to see",
+    "class": "2. konjugācija (-ēt)",
+    "object": "papildu piemērs 6",
+    "forms": [
+      [
+        "redzu",
+        "redzi",
+        "redz",
+        "redzam",
+        "redzat",
+        "redz"
+      ],
+      [
+        "redzēju",
+        "redzēji",
+        "redzēja",
+        "redzējām",
+        "redzējāt",
+        "redzēja"
+      ],
+      [
+        "redzēšu",
+        "redzēsi",
+        "redzēs",
+        "redzēsim",
+        "redzēsiet",
+        "redzēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "runāt",
+    "translation": "to speak",
+    "class": "2. konjugācija (-āt)",
+    "object": "papildu piemērs 7",
+    "forms": [
+      [
+        "runāju",
+        "runā",
+        "runā",
+        "runājam",
+        "runājat",
+        "runā"
+      ],
+      [
+        "runāju",
+        "runāji",
+        "runāja",
+        "runājām",
+        "runājāt",
+        "runāja"
+      ],
+      [
+        "runāšu",
+        "runāsi",
+        "runās",
+        "runāsim",
+        "runāsiet",
+        "runās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "strādāt",
+    "translation": "to work",
+    "class": "2. konjugācija (-āt)",
+    "object": "papildu piemērs 8",
+    "forms": [
+      [
+        "strādāju",
+        "strādā",
+        "strādā",
+        "strādājam",
+        "strādājat",
+        "strādā"
+      ],
+      [
+        "strādāju",
+        "strādāji",
+        "strādāja",
+        "strādājām",
+        "strādājāt",
+        "strādāja"
+      ],
+      [
+        "strādāšu",
+        "strādāsi",
+        "strādās",
+        "strādāsim",
+        "strādāsiet",
+        "strādās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "mācīties",
+    "translation": "to study/learn",
+    "class": "2. konjugācija (-īties), atgriezeniskā",
+    "object": "papildu piemērs 9",
+    "forms": [
+      [
+        "mācos",
+        "mācies",
+        "mācās",
+        "mācāmies",
+        "mācāties",
+        "mācās"
+      ],
+      [
+        "mācījos",
+        "mācījies",
+        "mācījās",
+        "mācījāmies",
+        "mācījāties",
+        "mācījās"
+      ],
+      [
+        "mācīšos",
+        "mācīsies",
+        "mācīsies",
+        "mācīsimies",
+        "mācīsieties",
+        "mācīsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "gribēt",
+    "translation": "to want",
+    "class": "2. konjugācija (-ēt)",
+    "object": "papildu piemērs 10",
+    "forms": [
+      [
+        "gribu",
+        "gribi",
+        "grib",
+        "gribam",
+        "gribat",
+        "grib"
+      ],
+      [
+        "gribēju",
+        "gribēji",
+        "gribēja",
+        "gribējām",
+        "gribējāt",
+        "gribēja"
+      ],
+      [
+        "gribēšu",
+        "gribēsi",
+        "gribēs",
+        "gribēsim",
+        "gribēsiet",
+        "gribēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "varēt",
+    "translation": "to be able to",
+    "class": "2. konjugācija (-ēt)",
+    "object": "papildu piemērs 11",
+    "forms": [
+      [
+        "varu",
+        "vari",
+        "var",
+        "varam",
+        "varat",
+        "var"
+      ],
+      [
+        "varēju",
+        "varēji",
+        "varēja",
+        "varējām",
+        "varējāt",
+        "varēja"
+      ],
+      [
+        "varēšu",
+        "varēsi",
+        "varēs",
+        "varēsim",
+        "varēsiet",
+        "varēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "zināt",
+    "translation": "to know",
+    "class": "2. konjugācija (-āt)",
+    "object": "papildu piemērs 12",
+    "forms": [
+      [
+        "zinu",
+        "zini",
+        "zina",
+        "zinām",
+        "zināt",
+        "zina"
+      ],
+      [
+        "zināju",
+        "zināji",
+        "zināja",
+        "zinājām",
+        "zinājāt",
+        "zināja"
+      ],
+      [
+        "zināšu",
+        "zināsi",
+        "zinās",
+        "zināsim",
+        "zināsiet",
+        "zinās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "domāt",
+    "translation": "to think",
+    "class": "2. konjugācija (-āt)",
+    "object": "papildu piemērs 13",
+    "forms": [
+      [
+        "domāju",
+        "domā",
+        "domā",
+        "domājam",
+        "domājat",
+        "domā"
+      ],
+      [
+        "domāju",
+        "domāji",
+        "domāja",
+        "domājām",
+        "domājāt",
+        "domāja"
+      ],
+      [
+        "domāšu",
+        "domāsi",
+        "domās",
+        "domāsim",
+        "domāsiet",
+        "domās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "lasīt",
+    "translation": "to read",
+    "class": "2. konjugācija (-īt)",
+    "object": "papildu piemērs 14",
+    "forms": [
+      [
+        "lasu",
+        "lasi",
+        "lasa",
+        "lasām",
+        "lasāt",
+        "lasa"
+      ],
+      [
+        "lasīju",
+        "lasīji",
+        "lasīja",
+        "lasījām",
+        "lasījāt",
+        "lasīja"
+      ],
+      [
+        "lasīšu",
+        "lasīsi",
+        "lasīs",
+        "lasīsim",
+        "lasīsiet",
+        "lasīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "rakstīt",
+    "translation": "to write",
+    "class": "2. konjugācija (-īt)",
+    "object": "papildu piemērs 15",
+    "forms": [
+      [
+        "rakstu",
+        "raksti",
+        "raksta",
+        "rakstām",
+        "rakstāt",
+        "raksta"
+      ],
+      [
+        "rakstīju",
+        "rakstīji",
+        "rakstīja",
+        "rakstījām",
+        "rakstījāt",
+        "rakstīja"
+      ],
+      [
+        "rakstīšu",
+        "rakstīsi",
+        "rakstīs",
+        "rakstīsim",
+        "rakstīsiet",
+        "rakstīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "skatīties",
+    "translation": "to watch/look",
+    "class": "2. konjugācija (-īties), atgriezeniskā",
+    "object": "papildu piemērs 16",
+    "forms": [
+      [
+        "skatos",
+        "skaties",
+        "skatās",
+        "skatāmies",
+        "skatāties",
+        "skatās"
+      ],
+      [
+        "skatījos",
+        "skatījies",
+        "skatījās",
+        "skatījāmies",
+        "skatījāties",
+        "skatījās"
+      ],
+      [
+        "skatīšos",
+        "skatīsies",
+        "skatīsies",
+        "skatīsimies",
+        "skatīsieties",
+        "skatīsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "klausīties",
+    "translation": "to listen",
+    "class": "2. konjugācija (-īties), atgriezeniskā",
+    "object": "papildu piemērs 17",
+    "forms": [
+      [
+        "klausos",
+        "klausies",
+        "klausās",
+        "klausāmies",
+        "klausāties",
+        "klausās"
+      ],
+      [
+        "klausījos",
+        "klausījies",
+        "klausījās",
+        "klausījāmies",
+        "klausījāties",
+        "klausījās"
+      ],
+      [
+        "klausīšos",
+        "klausīsies",
+        "klausīsies",
+        "klausīsimies",
+        "klausīsieties",
+        "klausīsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "just",
+    "translation": "to feel",
+    "class": "1. konjugācija",
+    "object": "papildu piemērs 18",
+    "forms": [
+      [
+        "jūtu",
+        "jūti",
+        "jūt",
+        "jūtam",
+        "jūtat",
+        "jūt"
+      ],
+      [
+        "jutu",
+        "juti",
+        "juta",
+        "jutām",
+        "jutāt",
+        "juta"
+      ],
+      [
+        "jutīšu",
+        "jutīsi",
+        "jutīs",
+        "jutīsim",
+        "jutīsiet",
+        "jutīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "just",
+    "translation": "to feel",
+    "class": "1. konjugācija",
+    "object": "papildu piemērs 19",
+    "forms": [
+      [
+        "jūtu",
+        "jūti",
+        "jūt",
+        "jūtam",
+        "jūtat",
+        "jūt"
+      ],
+      [
+        "jutu",
+        "juti",
+        "juta",
+        "jutām",
+        "jutāt",
+        "juta"
+      ],
+      [
+        "jutīšu",
+        "jutīsi",
+        "jutīs",
+        "jutīsim",
+        "jutīsiet",
+        "jutīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "ēst",
+    "translation": "to eat",
+    "class": "1. konjugācija, neregulārs",
+    "object": "papildu piemērs 20",
+    "forms": [
+      [
+        "ēdu",
+        "ēd",
+        "ēd",
+        "ēdam",
+        "ēdat",
+        "ēd"
+      ],
+      [
+        "ēdu",
+        "ēdi",
+        "ēda",
+        "ēdām",
+        "ēdāt",
+        "ēda"
+      ],
+      [
+        "ēdīšu",
+        "ēdīsi",
+        "ēdīs",
+        "ēdīsim",
+        "ēdīsiet",
+        "ēdīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "dzert",
+    "translation": "to drink",
+    "class": "1. konjugācija",
+    "object": "papildu piemērs 21",
+    "forms": [
+      [
+        "dzeru",
+        "dzer",
+        "dzer",
+        "dzeram",
+        "dzerat",
+        "dzer"
+      ],
+      [
+        "dzēru",
+        "dzēri",
+        "dzēra",
+        "dzērām",
+        "dzērāt",
+        "dzēra"
+      ],
+      [
+        "dzeršu",
+        "dzersi",
+        "dzers",
+        "dzersim",
+        "dzersiet",
+        "dzers"
+      ]
+    ]
+  },
+  {
+    "infinitive": "gulēt",
+    "translation": "to sleep/lie",
+    "class": "2. konjugācija (-ēt)",
+    "object": "papildu piemērs 22",
+    "forms": [
+      [
+        "guļu",
+        "guli",
+        "guļ",
+        "guļam",
+        "guļat",
+        "guļ"
+      ],
+      [
+        "gulēju",
+        "gulēji",
+        "gulēja",
+        "gulējām",
+        "gulējāt",
+        "gulēja"
+      ],
+      [
+        "gulēšu",
+        "gulēsi",
+        "gulēs",
+        "gulēsim",
+        "gulēsiet",
+        "gulēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "celties",
+    "translation": "to get up",
+    "class": "1. konjugācija, atgriezeniskā",
+    "object": "papildu piemērs 23",
+    "forms": [
+      [
+        "ceļos",
+        "ceļies",
+        "ceļas",
+        "ceļamies",
+        "ceļaties",
+        "ceļas"
+      ],
+      [
+        "cēlos",
+        "cēlies",
+        "cēlās",
+        "cēlāmies",
+        "cēlāties",
+        "cēlās"
+      ],
+      [
+        "celšos",
+        "celsies",
+        "celsies",
+        "celsimies",
+        "celsieties",
+        "celsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "strādāt",
+    "translation": "to work",
+    "class": "2. konjugācija (-āt)",
+    "object": "papildu piemērs 24",
+    "forms": [
+      [
+        "strādāju",
+        "strādā",
+        "strādā",
+        "strādājam",
+        "strādājat",
+        "strādā"
+      ],
+      [
+        "strādāju",
+        "strādāji",
+        "strādāja",
+        "strādājām",
+        "strādājāt",
+        "strādāja"
+      ],
+      [
+        "strādāšu",
+        "strādāsi",
+        "strādās",
+        "strādāsim",
+        "strādāsiet",
+        "strādās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "spēlēt",
+    "translation": "to play",
+    "class": "2. konjugācija (-ēt)",
+    "object": "papildu piemērs 25",
+    "forms": [
+      [
+        "spēlēju",
+        "spēlē",
+        "spēlē",
+        "spēlējam",
+        "spēlējat",
+        "spēlē"
+      ],
+      [
+        "spēlēju",
+        "spēlēji",
+        "spēlēja",
+        "spēlējām",
+        "spēlējāt",
+        "spēlēja"
+      ],
+      [
+        "spēlēšu",
+        "spēlēsi",
+        "spēlēs",
+        "spēlēsim",
+        "spēlēsiet",
+        "spēlēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "dziedāt",
+    "translation": "to sing",
+    "class": "2. konjugācija (-āt)",
+    "object": "papildu piemērs 26",
+    "forms": [
+      [
+        "dziedu",
+        "dziedi",
+        "dzied",
+        "dziedam",
+        "dziedat",
+        "dzied"
+      ],
+      [
+        "dziedāju",
+        "dziedāji",
+        "dziedāja",
+        "dziedājām",
+        "dziedājāt",
+        "dziedāja"
+      ],
+      [
+        "dziedāšu",
+        "dziedāsi",
+        "dziedās",
+        "dziedāsim",
+        "dziedāsiet",
+        "dziedās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "dejot",
+    "translation": "to dance",
+    "class": "3. konjugācija (-ot)",
+    "object": "papildu piemērs 27",
+    "forms": [
+      [
+        "dejoju",
+        "dejo",
+        "dejo",
+        "dejojam",
+        "dejojat",
+        "dejo"
+      ],
+      [
+        "dejoju",
+        "dejoji",
+        "dejoja",
+        "dejojām",
+        "dejojāt",
+        "dejoja"
+      ],
+      [
+        "dejošu",
+        "dejosi",
+        "dejos",
+        "dejosim",
+        "dejosiet",
+        "dejos"
+      ]
+    ]
+  },
+  {
+    "infinitive": "smieties",
+    "translation": "to laugh",
+    "class": "1. konjugācija, atgriezeniskā",
+    "object": "papildu piemērs 28",
+    "forms": [
+      [
+        "smejos",
+        "smejies",
+        "smejas",
+        "smejamies",
+        "smejaties",
+        "smejas"
+      ],
+      [
+        "smējos",
+        "smējies",
+        "smējās",
+        "smējāmies",
+        "smējāties",
+        "smējās"
+      ],
+      [
+        "smiešos",
+        "smiesies",
+        "smiesies",
+        "smiesimies",
+        "smiesieties",
+        "smiesies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "raudāt",
+    "translation": "to cry",
+    "class": "2. konjugācija (-āt)",
+    "object": "papildu piemērs 29",
+    "forms": [
+      [
+        "raudu",
+        "raudi",
+        "raud",
+        "raudam",
+        "raudat",
+        "raud"
+      ],
+      [
+        "raudāju",
+        "raudāji",
+        "raudāja",
+        "raudājām",
+        "raudājāt",
+        "raudāja"
+      ],
+      [
+        "raudāšu",
+        "raudāsi",
+        "raudās",
+        "raudāsim",
+        "raudāsiet",
+        "raudās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "meklēt",
+    "translation": "to look for",
+    "class": "2. konjugācija (-ēt)",
+    "object": "papildu piemērs 30",
+    "forms": [
+      [
+        "meklēju",
+        "meklē",
+        "meklē",
+        "meklējam",
+        "meklējat",
+        "meklē"
+      ],
+      [
+        "meklēju",
+        "meklēji",
+        "meklēja",
+        "meklējām",
+        "meklējāt",
+        "meklēja"
+      ],
+      [
+        "meklēšu",
+        "meklēsi",
+        "meklēs",
+        "meklēsim",
+        "meklēsiet",
+        "meklēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "atrast",
+    "translation": "to find",
+    "class": "1. konjugācija",
+    "object": "papildu piemērs 31",
+    "forms": [
+      [
+        "atrodu",
+        "atrodi",
+        "atrod",
+        "atrodam",
+        "atrodat",
+        "atrod"
+      ],
+      [
+        "atradu",
+        "atradi",
+        "atrada",
+        "atradām",
+        "atradāt",
+        "atrada"
+      ],
+      [
+        "atradīšu",
+        "atradīsi",
+        "atradīs",
+        "atradīsim",
+        "atradīsiet",
+        "atradīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "pirkt",
+    "translation": "to buy",
+    "class": "1. konjugācija",
+    "object": "papildu piemērs 32",
+    "forms": [
+      [
+        "pērku",
+        "pērc",
+        "pērk",
+        "pērkam",
+        "pērkat",
+        "pērk"
+      ],
+      [
+        "pirku",
+        "pirki",
+        "pirka",
+        "pirkām",
+        "pirkāt",
+        "pirka"
+      ],
+      [
+        "pirkšu",
+        "pirksi",
+        "pirks",
+        "pirksim",
+        "pirksiet",
+        "pirks"
+      ]
+    ]
+  },
+  {
+    "infinitive": "pārdot",
+    "translation": "to sell",
+    "class": "1. konjugācija, neregulārs",
+    "object": "papildu piemērs 33",
+    "forms": [
+      [
+        "pārdodu",
+        "pārdod",
+        "pārdod",
+        "pārdodam",
+        "pārdodat",
+        "pārdod"
+      ],
+      [
+        "pārdevu",
+        "pārdevi",
+        "pārdeva",
+        "pārdevām",
+        "pārdevāt",
+        "pārdeva"
+      ],
+      [
+        "pārdošu",
+        "pārdosi",
+        "pārdos",
+        "pārdosim",
+        "pārdosiet",
+        "pārdos"
+      ]
+    ]
+  },
+  {
+    "infinitive": "maksāt",
+    "translation": "to pay/cost",
+    "class": "2. konjugācija (-āt)",
+    "object": "papildu piemērs 34",
+    "forms": [
+      [
+        "maksāju",
+        "maksā",
+        "maksā",
+        "maksājam",
+        "maksājat",
+        "maksā"
+      ],
+      [
+        "maksāju",
+        "maksāji",
+        "maksāja",
+        "maksājām",
+        "maksājāt",
+        "maksāja"
+      ],
+      [
+        "maksāšu",
+        "maksāsi",
+        "maksās",
+        "maksāsim",
+        "maksāsiet",
+        "maksās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "gaidīt",
+    "translation": "to wait",
+    "class": "2. konjugācija (-īt)",
+    "object": "papildu piemērs 35",
+    "forms": [
+      [
+        "gaidu",
+        "gaidi",
+        "gaida",
+        "gaidām",
+        "gaidāt",
+        "gaida"
+      ],
+      [
+        "gaidīju",
+        "gaidīji",
+        "gaidīja",
+        "gaidījām",
+        "gaidījāt",
+        "gaidīja"
+      ],
+      [
+        "gaidīšu",
+        "gaidīsi",
+        "gaidīs",
+        "gaidīsim",
+        "gaidīsiet",
+        "gaidīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "sākt",
+    "translation": "to start",
+    "class": "1. konjugācija",
+    "object": "papildu piemērs 36",
+    "forms": [
+      [
+        "sāku",
+        "sāc",
+        "sāk",
+        "sākam",
+        "sākat",
+        "sāk"
+      ],
+      [
+        "sāku",
+        "sāki",
+        "sāka",
+        "sākām",
+        "sākāt",
+        "sāka"
+      ],
+      [
+        "sākšu",
+        "sāksi",
+        "sāks",
+        "sāksim",
+        "sāksiet",
+        "sāks"
+      ]
+    ]
+  },
+  {
+    "infinitive": "beigt",
+    "translation": "to finish",
+    "class": "1. konjugācija",
+    "object": "papildu piemērs 37",
+    "forms": [
+      [
+        "beidzu",
+        "beidz",
+        "beidz",
+        "beidzam",
+        "beidzat",
+        "beidz"
+      ],
+      [
+        "beidzu",
+        "beidzi",
+        "beidza",
+        "beidzām",
+        "beidzāt",
+        "beidza"
+      ],
+      [
+        "beigšu",
+        "beigsi",
+        "beigs",
+        "beigsim",
+        "beigsiet",
+        "beigs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "palīdzēt",
+    "translation": "to help",
+    "class": "2. konjugācija (-ēt)",
+    "object": "papildu piemērs 38",
+    "forms": [
+      [
+        "palīdzu",
+        "palīdzi",
+        "palīdz",
+        "palīdzam",
+        "palīdzat",
+        "palīdz"
+      ],
+      [
+        "palīdzēju",
+        "palīdzēji",
+        "palīdzēja",
+        "palīdzējām",
+        "palīdzējāt",
+        "palīdzēja"
+      ],
+      [
+        "palīdzēšu",
+        "palīdzēsi",
+        "palīdzēs",
+        "palīdzēsim",
+        "palīdzēsiet",
+        "palīdzēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "saprast",
+    "translation": "to understand",
+    "class": "1. konjugācija",
+    "object": "papildu piemērs 39",
+    "forms": [
+      [
+        "saprotu",
+        "saproti",
+        "saprot",
+        "saprotam",
+        "saprotat",
+        "saprot"
+      ],
+      [
+        "sapratu",
+        "sapratu",
+        "saprata",
+        "sapratām",
+        "sapratāt",
+        "saprata"
+      ],
+      [
+        "sapratīšu",
+        "sapratīsi",
+        "sapratīs",
+        "sapratīsim",
+        "sapratīsiet",
+        "sapratīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "atbildēt",
+    "translation": "to answer",
+    "class": "2. konjugācija (-ēt)",
+    "object": "papildu piemērs 40",
+    "forms": [
+      [
+        "atbildu",
+        "atbildi",
+        "atbild",
+        "atbildam",
+        "atbildat",
+        "atbild"
+      ],
+      [
+        "atbildēju",
+        "atbildēji",
+        "atbildēja",
+        "atbildējām",
+        "atbildējāt",
+        "atbildēja"
+      ],
+      [
+        "atbildēšu",
+        "atbildēsi",
+        "atbildēs",
+        "atbildēsim",
+        "atbildēsiet",
+        "atbildēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "jautāt",
+    "translation": "to ask",
+    "class": "2. konjugācija (-āt)",
+    "object": "papildu piemērs 41",
+    "forms": [
+      [
+        "jautāju",
+        "jautā",
+        "jautā",
+        "jautājam",
+        "jautājat",
+        "jautā"
+      ],
+      [
+        "jautāju",
+        "jautāji",
+        "jautāja",
+        "jautājām",
+        "jautājāt",
+        "jautāja"
+      ],
+      [
+        "jautāšu",
+        "jautāsi",
+        "jautās",
+        "jautāsim",
+        "jautāsiet",
+        "jautās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "atcerēties",
+    "translation": "to remember",
+    "class": "2. konjugācija (-ēties), atgriezeniskā",
+    "object": "papildu piemērs 42",
+    "forms": [
+      [
+        "atceros",
+        "atceries",
+        "atceras",
+        "atceramies",
+        "atceraties",
+        "atceras"
+      ],
+      [
+        "atcerējos",
+        "atcerējies",
+        "atcerējās",
+        "atcerējāmies",
+        "atcerējāties",
+        "atcerējās"
+      ],
+      [
+        "atcerēšos",
+        "atcerēsies",
+        "atcerēsies",
+        "atcerēsimies",
+        "atcerēsieties",
+        "atcerēsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "aizmirst",
+    "translation": "to forget",
+    "class": "1. konjugācija",
+    "object": "papildu piemērs 43",
+    "forms": [
+      [
+        "aizmirstu",
+        "aizmirsti",
+        "aizmirst",
+        "aizmirstam",
+        "aizmirstat",
+        "aizmirst"
+      ],
+      [
+        "aizmirsu",
+        "aizmirsi",
+        "aizmirsa",
+        "aizmirsām",
+        "aizmirsāt",
+        "aizmirsa"
+      ],
+      [
+        "aizmirsīšu",
+        "aizmirsīsi",
+        "aizmirsīs",
+        "aizmirsīsim",
+        "aizmirsīsiet",
+        "aizmirsīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "sākt",
+    "translation": "to begin",
+    "class": "1. konjugācija",
+    "object": "papildu piemērs 44",
+    "forms": [
+      [
+        "sāku",
+        "sāc",
+        "sāk",
+        "sākam",
+        "sākat",
+        "sāk"
+      ],
+      [
+        "sāku",
+        "sāki",
+        "sāka",
+        "sākām",
+        "sākāt",
+        "sāka"
+      ],
+      [
+        "sākšu",
+        "sāksi",
+        "sāks",
+        "sāksim",
+        "sāksiet",
+        "sāks"
+      ]
+    ]
+  },
+  {
+    "infinitive": "gaidīt",
+    "translation": "to wait",
+    "class": "2. konjugācija (-īt)",
+    "object": "papildu piemērs 45",
+    "forms": [
+      [
+        "gaidu",
+        "gaidi",
+        "gaida",
+        "gaidām",
+        "gaidāt",
+        "gaida"
+      ],
+      [
+        "gaidīju",
+        "gaidīji",
+        "gaidīja",
+        "gaidījām",
+        "gaidījāt",
+        "gaidīja"
+      ],
+      [
+        "gaidīšu",
+        "gaidīsi",
+        "gaidīs",
+        "gaidīsim",
+        "gaidīsiet",
+        "gaidīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "iegūt",
+    "translation": "to obtain",
+    "class": "1. konjugācija",
+    "object": "papildu piemērs 46",
+    "forms": [
+      [
+        "iegūstu",
+        "iegūsti",
+        "iegūst",
+        "iegūstam",
+        "iegūstat",
+        "iegūst"
+      ],
+      [
+        "ieguvu",
+        "ieguvi",
+        "ieguva",
+        "ieguvām",
+        "ieguvāt",
+        "ieguva"
+      ],
+      [
+        "iegūšu",
+        "iegūsi",
+        "iegūs",
+        "iegūsim",
+        "iegūsiet",
+        "iegūs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "sākt",
+    "translation": "to start",
+    "class": "1. konjugācija",
+    "object": "papildu piemērs 47",
+    "forms": [
+      [
+        "sāku",
+        "sāc",
+        "sāk",
+        "sākam",
+        "sākat",
+        "sāk"
+      ],
+      [
+        "sāku",
+        "sāki",
+        "sāka",
+        "sākām",
+        "sākāt",
+        "sāka"
+      ],
+      [
+        "sākšu",
+        "sāksi",
+        "sāks",
+        "sāksim",
+        "sāksiet",
+        "sāks"
+      ]
+    ]
+  },
+  {
+    "infinitive": "dzīvot",
+    "translation": "to live",
+    "class": "3. konjugācija (-ot)",
+    "object": "papildu piemērs 48",
+    "forms": [
+      [
+        "dzīvoju",
+        "dzīvo",
+        "dzīvo",
+        "dzīvojam",
+        "dzīvojat",
+        "dzīvo"
+      ],
+      [
+        "dzīvoju",
+        "dzīvoji",
+        "dzīvoja",
+        "dzīvojām",
+        "dzīvojāt",
+        "dzīvoja"
+      ],
+      [
+        "dzīvošu",
+        "dzīvosi",
+        "dzīvos",
+        "dzīvosim",
+        "dzīvosiet",
+        "dzīvos"
+      ]
+    ]
+  },
+  {
+    "infinitive": "strādāt",
+    "translation": "to work",
+    "class": "2. konjugācija (-āt)",
+    "object": "papildu piemērs 49",
+    "forms": [
+      [
+        "strādāju",
+        "strādā",
+        "strādā",
+        "strādājam",
+        "strādājat",
+        "strādā"
+      ],
+      [
+        "strādāju",
+        "strādāji",
+        "strādāja",
+        "strādājām",
+        "strādājāt",
+        "strādāja"
+      ],
+      [
+        "strādāšu",
+        "strādāsi",
+        "strādās",
+        "strādāsim",
+        "strādāsiet",
+        "strādās"
+      ]
+    ]
+  },
+  {
+    "infinitive": "mīlēt",
+    "translation": "to love",
+    "class": "2. konjugācija (-ēt)",
+    "object": "papildu piemērs 50",
+    "forms": [
+      [
+        "mīlu",
+        "mīli",
+        "mīl",
+        "mīlam",
+        "mīlat",
+        "mīl"
+      ],
+      [
+        "mīlēju",
+        "mīlēji",
+        "mīlēja",
+        "mīlējām",
+        "mīlējāt",
+        "mīlēja"
+      ],
+      [
+        "mīlēšu",
+        "mīlēsi",
+        "mīlēs",
+        "mīlēsim",
+        "mīlēsiet",
+        "mīlēs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "patikt",
+    "translation": "to like/please",
+    "class": "1. konjugācija",
+    "object": "papildu piemērs 51",
+    "forms": [
+      [
+        "patīku",
+        "patīc",
+        "patīk",
+        "patīkam",
+        "patīkat",
+        "patīk"
+      ],
+      [
+        "patiku",
+        "patiki",
+        "patika",
+        "patikām",
+        "patikāt",
+        "patika"
+      ],
+      [
+        "patikšu",
+        "patiksi",
+        "patiks",
+        "patiksim",
+        "patiksiet",
+        "patiks"
+      ]
+    ]
+  },
+  {
+    "infinitive": "sagatavot",
+    "translation": "to prepare",
+    "class": "3. konjugācija (-ot)",
+    "object": "papildu piemērs 52",
+    "forms": [
+      [
+        "sagatavoju",
+        "sagatavo",
+        "sagatavo",
+        "sagatavojam",
+        "sagatavojat",
+        "sagatavo"
+      ],
+      [
+        "sagatavoju",
+        "sagatavoji",
+        "sagatavoja",
+        "sagatavojām",
+        "sagatavojāt",
+        "sagatavoja"
+      ],
+      [
+        "sagatavošu",
+        "sagatavosi",
+        "sagatavos",
+        "sagatavosim",
+        "sagatavosiet",
+        "sagatavos"
+      ]
+    ]
+  },
+  {
+    "infinitive": "sākt",
+    "translation": "to start",
+    "class": "1. konjugācija",
+    "object": "papildu piemērs 53",
+    "forms": [
+      [
+        "sāku",
+        "sāc",
+        "sāk",
+        "sākam",
+        "sākat",
+        "sāk"
+      ],
+      [
+        "sāku",
+        "sāki",
+        "sāka",
+        "sākām",
+        "sākāt",
+        "sāka"
+      ],
+      [
+        "sākšu",
+        "sāksi",
+        "sāks",
+        "sāksim",
+        "sāksiet",
+        "sāks"
+      ]
+    ]
+  },
+  {
+    "infinitive": "beigties",
+    "translation": "to end (itself)",
+    "class": "1. konjugācija, atgriezeniskā",
+    "object": "papildu piemērs 54",
+    "forms": [
+      [
+        "beidzos",
+        "beidzies",
+        "beidzas",
+        "beidzamies",
+        "beidzaties",
+        "beidzas"
+      ],
+      [
+        "beidzos",
+        "beidzies",
+        "beidzās",
+        "beidzāmies",
+        "beidzāties",
+        "beidzās"
+      ],
+      [
+        "beigšos",
+        "beigsies",
+        "beigsies",
+        "beigsimies",
+        "beigsieties",
+        "beigsies"
+      ]
+    ]
+  },
+  {
+    "infinitive": "vest",
+    "translation": "to lead/bring",
+    "class": "1. konjugācija",
+    "object": "papildu piemērs 55",
+    "forms": [
+      [
+        "vedu",
+        "ved",
+        "ved",
+        "vedam",
+        "vedat",
+        "ved"
+      ],
+      [
+        "vedu",
+        "vedi",
+        "veda",
+        "vedām",
+        "vedāt",
+        "veda"
+      ],
+      [
+        "vedīšu",
+        "vedīsi",
+        "vedīs",
+        "vedīsim",
+        "vedīsiet",
+        "vedīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "nest",
+    "translation": "to carry",
+    "class": "1. konjugācija",
+    "object": "papildu piemērs 56",
+    "forms": [
+      [
+        "nesu",
+        "nes",
+        "nes",
+        "nesam",
+        "nesat",
+        "nes"
+      ],
+      [
+        "nesu",
+        "nesi",
+        "nesa",
+        "nesām",
+        "nesāt",
+        "nesa"
+      ],
+      [
+        "nesīšu",
+        "nesīsi",
+        "nesīs",
+        "nesīsim",
+        "nesīsiet",
+        "nesīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "krist",
+    "translation": "to fall",
+    "class": "1. konjugācija",
+    "object": "papildu piemērs 57",
+    "forms": [
+      [
+        "krītu",
+        "krīti",
+        "krīt",
+        "krītam",
+        "krītat",
+        "krīt"
+      ],
+      [
+        "kritu",
+        "kriti",
+        "krita",
+        "kritām",
+        "kritāt",
+        "krita"
+      ],
+      [
+        "kritīšu",
+        "kritīsi",
+        "kritīs",
+        "kritīsim",
+        "kritīsiet",
+        "kritīs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "augt",
+    "translation": "to grow",
+    "class": "1. konjugācija",
+    "object": "papildu piemērs 58",
+    "forms": [
+      [
+        "augu",
+        "augi",
+        "aug",
+        "augam",
+        "augat",
+        "aug"
+      ],
+      [
+        "augu",
+        "augi",
+        "auga",
+        "augām",
+        "augāt",
+        "auga"
+      ],
+      [
+        "augšu",
+        "augsi",
+        "augs",
+        "augsim",
+        "augsiet",
+        "augs"
+      ]
+    ]
+  },
+  {
+    "infinitive": "mest",
+    "translation": "to throw",
+    "class": "1. konjugācija",
+    "object": "papildu piemērs 59",
+    "forms": [
+      [
+        "metu",
+        "met",
+        "met",
+        "metam",
+        "metat",
+        "met"
+      ],
+      [
+        "metu",
+        "meti",
+        "meta",
+        "metām",
+        "metāt",
+        "meta"
+      ],
+      [
+        "metīšu",
+        "metīsi",
+        "metīs",
+        "metīsim",
+        "metīsiet",
+        "metīs"
+      ]
+    ]
+  }
+]
