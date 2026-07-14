@@ -1,5 +1,7 @@
 package data
 
+import "math/rand"
+
 // Tense represents one of the three main Latvian tenses practiced here.
 type Tense int
 
@@ -68,16 +70,25 @@ func (p PersonNumber) Description() string {
 // tenses and six person/number slots, plus metadata used to build practice
 // sentences and grammar explanations.
 type Verb struct {
-	Infinitive  string // e.g. "iegūt"
-	Translation string // English gloss, e.g. "to obtain"
-	Class       string // short conjugation-class note shown in explanations
-	Object      string // trailing sentence context, e.g. "jaunus draugus"
+	Infinitive  string   // e.g. "iegūt"
+	Translation string   // English gloss, e.g. "to obtain"
+	Class       string   // short conjugation-class note shown in explanations
+	Objects     []string // trailing sentence contexts, e.g. "jaunus draugus"
 	Forms       [3][6]string
 }
 
 // Form returns the correct conjugated form for a tense/person slot.
 func (v Verb) Form(t Tense, p PersonNumber) string {
 	return v.Forms[t][p]
+}
+
+// RandomObject returns one of the verb's sentence-context objects at
+// random, or an empty string if none are defined.
+func (v Verb) RandomObject() string {
+	if len(v.Objects) == 0 {
+		return ""
+	}
+	return v.Objects[rand.Intn(len(v.Objects))]
 }
 
 // TimeAdverb returns the natural time word used per tense in sentences.

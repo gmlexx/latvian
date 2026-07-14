@@ -19,6 +19,7 @@ const sessionSize = 10
 type question struct {
 	num    int // 1..sessionSize, stable across retries
 	verb   data.Verb
+	object string
 	tense  data.Tense
 	person data.PersonNumber
 	fem    bool
@@ -40,20 +41,15 @@ func randomTense() data.Tense {
 }
 
 func newQuestion(num int) question {
+	verb := data.Verbs[rand.Intn(len(data.Verbs))]
 	return question{
 		num:    num,
-		verb:   data.Verbs[rand.Intn(len(data.Verbs))],
+		verb:   verb,
+		object: verb.RandomObject(),
 		tense:  randomTense(),
 		person: data.PersonNumber(rand.Intn(6)),
 		fem:    rand.Intn(2) == 1,
 	}
-}
-
-func sentenceContext(object string) string {
-	if strings.HasPrefix(object, "papildu piemērs ") {
-		return ""
-	}
-	return object
 }
 
 func main() {
@@ -92,7 +88,7 @@ func main() {
 
 		subject := q.person.Label(q.fem)
 		adverb := data.TimeAdverb(q.tense)
-		context := sentenceContext(q.verb.Object)
+		context := q.object
 		if context == "" {
 			fmt.Printf("%s %s ___ (%s).\n", subject, adverb, cyan(q.verb.Infinitive))
 		} else {

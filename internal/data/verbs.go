@@ -13,7 +13,7 @@ type verbJSON struct {
 	Infinitive  string       `json:"infinitive"`
 	Translation string       `json:"translation"`
 	Class       string       `json:"class"`
-	Object      string       `json:"object"`
+	Objects     []string     `json:"objects"`
 	Forms       [3][6]string `json:"forms"`
 }
 
@@ -39,7 +39,7 @@ func loadVerbs() []Verb {
 			Infinitive:  v.Infinitive,
 			Translation: v.Translation,
 			Class:       v.Class,
-			Object:      v.Object,
+			Objects:     v.Objects,
 			Forms:       v.Forms,
 		}
 	}
