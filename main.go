@@ -155,6 +155,10 @@ func main() {
 		}
 		fmt.Printf("Skaidrojums: darbības vārds %s (%s, %s) laika formā %s prasa %s.\n",
 			cyan(q.verb.Infinitive), q.verb.Translation, yellow(q.verb.Class), yellow(q.tense.String()), yellow(q.person.Description()))
+		fmt.Printf("Konjugācijas noteikums (%s):\n", yellow(q.verb.Class))
+		for _, line := range q.verb.ConjugationExplanation() {
+			fmt.Printf("  %s\n", line)
+		}
 		if context == "" {
 			fmt.Printf("Pilns teikums: %s %s %s.\n", subject, adverb, green(want))
 		} else {
