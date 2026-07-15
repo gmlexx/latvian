@@ -9,6 +9,7 @@ import (
 	"time"
 
 	"latvian-grammar/internal/data"
+	"latvian-grammar/internal/progress"
 )
 
 const sessionSize = 10
@@ -40,8 +41,25 @@ func randomTense() data.Tense {
 	}
 }
 
-func newQuestion(num int) question {
-	verb := data.Verbs[rand.Intn(len(data.Verbs))]
+// pickVerb chooses a verb for the next question. To make sure every
+// infinitive in the dataset eventually gets practiced, it prefers verbs the
+// tracker hasn't covered yet in the current cycle; once every verb has been
+// covered, it falls back to picking from the whole list uniformly.
+func pickVerb(tracker *progress.Tracker) data.Verb {
+	var uncovered []data.Verb
+	for _, v := range data.Verbs {
+		if !tracker.IsCovered(v.Infinitive) {
+			uncovered = append(uncovered, v)
+		}
+	}
+	if len(uncovered) == 0 {
+		return data.Verbs[rand.Intn(len(data.Verbs))]
+	}
+	return uncovered[rand.Intn(len(uncovered))]
+}
+
+func newQuestion(num int, tracker *progress.Tracker) question {
+	verb := pickVerb(tracker)
 	return question{
 		num:    num,
 		verb:   verb,
@@ -56,16 +74,37 @@ func main() {
 	rand.Seed(time.Now().UnixNano())
 	reader := bufio.NewReader(os.Stdin)
 
+	tracker := progress.Load()
+	totalVerbs := len(data.Verbs)
+	if tracker.IsComplete(totalVerbs) {
+		fmt.Println(green(bold(fmt.Sprintf(
+			"Apsveicam! Iepriekšējā ciklā tika praktizēti visi %d darbības vārdi. Sākam jaunu ciklu (Nr.%d).",
+			totalVerbs, tracker.Cycles+1))))
+		tracker.Reset()
+		if err := tracker.Save(); err != nil {
+			fmt.Fprintf(os.Stderr, "Brīdinājums: neizdevās saglabāt progresu: %v\n", err)
+		}
+		fmt.Println()
+	}
+
 	fmt.Println(bold("=== Latviešu valodas darbības vārdu treniņš ==="))
 	fmt.Printf("Šai kārtā ir %d jautājumi. Nepareizi atbildētie jautājumi tiks atkārtoti beigās,\n", sessionSize)
 	fmt.Println("līdz visi ir atbildēti pareizi.")
 	fmt.Println("Ievadiet pareizo darbības vārda formu tukšajā vietā.")
 	fmt.Println("Rakstiet 'exit' vai 'quit', lai beigtu jebkurā brīdī.")
+	fmt.Printf("Kopējais progress: %d/%d darbības vārdi jau praktizēti šajā ciklā (cikls Nr.%d).\n",
+		tracker.CoveredCount(), totalVerbs, tracker.Cycles+1)
 	fmt.Println()
 
 	queue := make([]question, sessionSize)
 	for i := range queue {
-		queue[i] = newQuestion(i + 1)
+		q := newQuestion(i+1, tracker)
+		if tracker.Mark(q.verb.Infinitive) {
+			if err := tracker.Save(); err != nil {
+				fmt.Fprintf(os.Stderr, "Brīdinājums: neizdevās saglabāt progresu: %v\n", err)
+			}
+		}
+		queue[i] = q
 	}
 
 	attempts := make(map[int]int) // question num -> attempts so far
@@ -197,5 +236,13 @@ func main() {
 		}
 		fmt.Printf("Jautājumi, kas atbildēti pareizi no pirmās reizes: %d/%d\n", firstTry, sessionSize)
 	}
+
+	fmt.Printf("Kopējais progress: %d/%d darbības vārdi praktizēti šajā ciklā (cikls Nr.%d).\n",
+		tracker.CoveredCount(), totalVerbs, tracker.Cycles+1)
+	if tracker.IsComplete(totalVerbs) {
+		fmt.Println(green(bold(fmt.Sprintf(
+			"Viss %d darbības vārdu klāsts ir praktizēts! Nākamajā palaišanas reizē sāksies jauns cikls.", totalVerbs))))
+	}
+
 	fmt.Println("Uz redzēšanos!")
 }
